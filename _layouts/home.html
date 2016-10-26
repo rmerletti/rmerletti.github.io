@@ -1,0 +1,23 @@
+{% include head.html %}
+<body class="home">
+  {% if page.lang == 'it' %}
+    {% include navbar.it.html %}
+  {% endif%}
+
+  {% if page.lang == 'en' %}
+    {% include navbar.en.html %}
+  {% endif%}
+
+  {{ content }}
+
+  {% if page.lang == 'it' %}
+    {% include footer.it.html %}
+  {% endif%}
+
+  {% if page.lang == 'en' %}
+    {% include footer.en.html %}
+  {% endif%}
+
+  {% include scripts.html %}
+</body>
+</html>

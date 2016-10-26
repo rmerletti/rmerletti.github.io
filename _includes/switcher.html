@@ -1,0 +1,30 @@
+<!-- Language switcher -->
+<ul class="langwageSwitcher">
+{% assign currLang=page.lang %}
+
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+{% for post in posts %}
+  <li>
+    {% if currLang == post.lang %}
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{post.lang }}.png" />
+    {% else %}
+    <a href="{{ post.url }}" class="{{ post.lang }}">
+      <img class="desaturate" src="{{ site.url }}{{ site.baseurl }}/assets/img/{{page.lang }}.png" />
+    </a>
+    {% endif %}
+  </li>
+{% endfor %}
+
+{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+{% for page in pages %}
+  <li>
+    {% if currLang == page.lang %}
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{page.lang }}.png" />
+    {% else %}
+    <a href="{{ page.url }}" class="{{ page.lang }}">
+      <img class="desaturate" src="{{ site.url }}{{ site.baseurl }}/assets/img/{{page.lang }}.png" />
+    </a>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>

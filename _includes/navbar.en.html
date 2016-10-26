@@ -1,0 +1,110 @@
+<!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+         <span class="sr-only">Navigazione</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+      </button> <a class="navbar-brand" href="{{ site.url }}">{{ site.title }}</a>
+    </div>
+
+    <div id="navbar" class="navbar-collapse collapse">
+
+      <ul class="nav navbar-nav">
+      </ul>
+
+      {% include switcher.html  %}
+
+      <ul class="nav navbar-nav navbar-right">
+        {% if page.ref != 'home' %}
+        <li>
+          <a href="{{ site.baseurl }}/">Home</a>
+        </li>
+        {% endif %}
+
+        <!-- EMG -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">EMG<strong class="caret"></strong></a>
+          <ul class="dropdown-menu multi-level" role="menu">
+            <li>
+              <a href="#">What it is</a>
+            </li>
+            <li class="divider"></li>
+            <li class="dropdown-submenu">
+              <a href="#">Applications</a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ site.baseurl }}/en/emg/applications/neurophysiology">Neurophysiology</a></li>
+                <li><a href="{{ site.baseurl }}/en/emg/applications/rehabilitation">Rehabilitation and healthy aging</a></li>
+                <li><a href="{{ site.baseurl }}/en/emg/applications/occupational">Occupational and Performing Arts Medicine</a></li>
+                <li><a href="{{ site.baseurl }}/en/emg/applications/fitness">Fitness and Sport Medicine</a></li>
+                <li><a href="{{ site.baseurl }}/en/emg/applications/obstetrics">Obstetrics and child-delivery</a></li>
+                <li><a href="{{ site.baseurl }}/en/emg/applications/biofeedback">Biofeedback technology/training</a></li>
+              </ul>
+            </li>
+            <li class="divider"></li>
+            <li class="dropdown-submenu">
+              <a href="#">Teaching materials (clinical)</a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ site.baseurl }}/en/emg/material/books">Books and chapters in books</a></li>
+                <li><a href="{{ site.baseurl }}/en/emg/material/teaching">Teaching modules and on-line courses</a></li>
+                <li><a href="{{ site.baseurl }}/#applications">Applications</a></li>
+                <li><a href="{{ site.baseurl }}/en/emg/material/films">Movies</a></li>
+              </ul>
+            </li>
+            <li class="dropdown-submenu">
+              <a href="#">Teaching material (technical)</a>
+              <ul class="dropdown-menu">
+                <li><a href="{{ site.baseurl }}/en/emg/material/rehabeng">Rehabilitation engineering</a></li>
+                <li><a href="{{ site.baseurl }}/en/emg/material/nmeng">Engineering of the neuromuscular system</a></li>
+                <li><a href="{{ site.baseurl }}/en/emg/material/tech">Amplifier and electrode technology</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+
+        <!-- CV -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Curriculum Vitae<strong class="caret"></strong></a>
+          <ul class="dropdown-menu">
+            <li>
+              <a href="{{ site.baseurl }}/en/cv">Short CV</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/en/cv/extended">Extended CV</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/en/cv/publications">Publications</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/en/cv/books">Books</a>
+            </li>
+            <li>
+              <a href="#contatti">Contacts</a>
+            </li>
+          </ul>
+        </li>
+
+        <!-- LISiN -->
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">LISiN<strong class="caret"></strong></a>
+          <ul class="dropdown-menu">
+            <li>
+              <a href="{{ site.baseurl }}/en/lisin/foundation_objectives">Foundation and objectives</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/en/lisin/history_people">History and people</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/en/lisin/projects">Projects</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/en/lisin/reports">Annual Reports</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+
+    </div><!--/.navbar-collapse -->
+  </div>
+</nav>
