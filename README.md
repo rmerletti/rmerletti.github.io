@@ -27,10 +27,12 @@ See [Jekyll site](https://jekyllrb.com/docs/windows/)
 ## TODO
 
 [x] Install and run jekyll locally on win
-[ ] Add local jquery dep
+[x] Add local jquery dep
 [ ] Find easy jekyll wysiyg editor
 [ ] Fix running on windows
 [ ] Remove lorem-ipsum and add under construction
 [ ] Pages
-    [ ] cv-it
+    [x] cv-it
+    [ ] cv-it-extended
     [ ] cv-en
+    [ ] cv-en-extended
