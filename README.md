@@ -30,9 +30,10 @@ See [Jekyll site](https://jekyllrb.com/docs/windows/)
 [x] Add local jquery dep
 [ ] Find easy jekyll wysiyg editor
 [ ] Fix running on windows
-[ ] Remove lorem-ipsum and add under construction
+[x] Remove lorem-ipsum and add under construction
 [ ] Pages
     [x] cv-it
     [ ] cv-it-extended
     [ ] cv-en
     [ ] cv-en-extended
+[ ] Point domain to GH
