@@ -1,13 +1,14 @@
 ---
 layout: default
+title: Curriculum Vitae - Breve
 permalink: "/it/cv/"
 lang: it
 ref: cv
 ---
 
-## Prof. Roberto Merletti, Ph.D.
+<img src="/assets/img/cv_photo.jpg" style="float:right; height: 14em">
 
-## Curriculum  Vitae
+## Prof. Roberto Merletti, Ph.D.
 
 ## Gennaio 2017
 
@@ -24,7 +25,8 @@ ref: cv
     Dip.to di Elettronica, Politecnico di Torino<br />
     Corso Duca degli Abruzzi 24 Torino, 10129<br />
     tel. 011 090 7763 oppure   011 0904137, <br />
-    E-mail: roberto.merletti@polito.it
+    E-mail: <a href="mailto:roberto.merletti@polito.it">mailto:roberto.merletti@polito.it</a><br />
+    URL: <a href="http://lisin.polito.it">http://lisin.polito.it</a>
   </dd>
   <dt>Posizioni</dt>
   <dd>Già Professore di 1° fascia presso il Dipartimento di Elettronica del Politecnico di Torino e Direttore del Laboratorio di Ingegneria del Sistema Neuromuscolare (LISIN), Politecnico di Torino</dd>
@@ -48,7 +50,7 @@ ref: cv
 
 <table class="table table-condensed">
     <tr>
-        <td class="col-md-2">1997 - 2015</td><td>Direttore del Laboratorio di Ingegneria del Sistema Neuromuscolare, Politecnico di Torino.   Didattica di Dottorato</td>
+        <td class="col-md-2">1997 - 2015</td><td>Direttore del Laboratorio di Ingegneria del Sistema Neuromuscolare, Politecnico di Torino. Didattica di Dottorato</td>
     </tr>
     <tr>
         <td class="col-md-2">2005 - 2015</td><td>Professore di Io Fascia di Ingegneria Biomedica, Dipartimento di Elettronica del Politecnico di Torino</td>

@@ -24,6 +24,14 @@ See [Jekyll site](https://jekyllrb.com/docs/windows/)
 * run ```bundler install ```
 * run ```bundle exec jekyll serve```
 
+## Deploy via FTP
+
+Run ```bundle exec jekyll build``` and then copy the contents of the _site folder to the ftp location
+
+## Deploy to github pages
+
+The master branch will automatically be rendered to https://rmerletti.github.io
+
 ## TODO
 
 [x] Install and run jekyll locally on win

@@ -3,32 +3,44 @@
     <div class="row">
       <div class="col-md-6">
         <h3 name="contacts" id="contacts">Contacts</h3>
-        <p><strong>email:</strong>
-          <script type="text/javascript" language="javascript">
-          <!--
-          // Email obfuscator script 2.1 by Tim Williams, University of Arizona
-          // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
-          // This code is freeware provided these four comment lines remain intact
-          // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-          { coded = "hTKxhfT.qxhnxffF@yTnFfT.Ff"
-            key = "Gvth8mRkxuHiV3bdT2n6JICyaEMAfsOq1YD9LFgrK4jceQ0w7WNSoBlPzU5pZX"
-            shift=coded.length
-            link=""
-            for (i=0; i<coded.length; i++) {
-              if (key.indexOf(coded.charAt(i))==-1) {
-                ltr = coded.charAt(i)
-                link += (ltr)
+        <dl class="dl-horizontal">
+          <dt>Email</dt>
+          <dd>
+            <script type="text/javascript" language="javascript">
+              <!--
+              // Email obfuscator script 2.1 by Tim Williams, University of Arizona
+              // Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+              // This code is freeware provided these four comment lines remain intact
+              // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+              { coded = "hTKxhfT.qxhnxffF@yTnFfT.Ff"
+                key = "Gvth8mRkxuHiV3bdT2n6JICyaEMAfsOq1YD9LFgrK4jceQ0w7WNSoBlPzU5pZX"
+                shift=coded.length
+                link=""
+                for (i=0; i<coded.length; i++) {
+                  if (key.indexOf(coded.charAt(i))==-1) {
+                    ltr = coded.charAt(i)
+                    link += (ltr)
+                  }
+                  else {
+                    ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+                    link += (key.charAt(ltr))
+                  }
+                }
+              document.write("<a href='mailto:"+link+"'>"+link+"</a>")
               }
-              else {
-                ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-                link += (key.charAt(ltr))
-              }
-            }
-          document.write("<a href='mailto:"+link+"'>"+link+"</a>")
-          }
-          //-->
-          </script><noscript>Sorry, you need Javascript on to email me.</noscript>
-        </p>
+              //-->
+              </script><noscript>Sorry, you need Javascript on to email me.</noscript>
+          </dd>
+          <dt>Mobile</dt>                   <dd>3471613643</dd>
+          <dt>Office address</dt>
+          <dd>
+            Dip.to di Elettronica, Politecnico di Torino<br />
+            Corso Duca degli Abruzzi 24 Torino, 10129<br />
+            tel. 011 090 7763 oppure   011 0904137, <br />
+            E-mail: <a href="mailto:roberto.merletti@polito.it">mailto:roberto.merletti@polito.it</a><br />
+            URL: <a href="http://lisin.polito.it">http://lisin.polito.it</a>
+          </dd>
+        </dl>
       </div>
       <div class="col-md-6">
         <p>&nbsp;</p>
