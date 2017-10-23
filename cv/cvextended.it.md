@@ -18,8 +18,6 @@ ref: cvextended
   <dt>Nome e cognome</dt>               <dd>Roberto Merletti</dd>
   <dt>Luogo e data di nascita</dt>      <dd>Torino, 6 Marzo 1945</dd>
   <dt>Cittadinanza</dt>                 <dd>Italiana</dd>
-  <dt>Domicilio</dt>                    <dd>Via Artisti 26, Torino, 10124</dd>
-  <dt>Cell</dt>                         <dd>3471613643</dd>
   <dt>Ufficio</dt>
   <dd>
     Dip.to di Elettronica, Politecnico di Torino<br />

@@ -18,8 +18,6 @@ ref: cv
   <dt>Name</dt>                     <dd>Roberto Merletti</dd>
   <dt>Place and date of birth</dt>  <dd>Torino, 6 Marzo 1945</dd>
   <dt>Citizenship</dt>              <dd>Italian</dd>
-  <dt>Home address</dt>             <dd>Via Artisti 26, Torino, 10124</dd>
-  <dt>Mobile</dt>                   <dd>3471613643</dd>
   <dt>Office address</dt>
   <dd>
     Dip.to di Elettronica, Politecnico di Torino<br />
