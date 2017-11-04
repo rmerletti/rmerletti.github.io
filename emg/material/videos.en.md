@@ -10,7 +10,7 @@ The movies listed below display the electrical activity on the skin under an ele
 
 Some movies show the instantaneous distribution of electric voltage (detected at 2048 frames/s but presented at a lower rate) or averaged (average rectified value over 0.5 s epochs, ARV, detected and presented at 2 frames/s). Presentation is in false color images (2D, red=positive or higher values, blue=negative or lower values) or in 3D plots (signal intensity versus the x and y coordinates under the grid).  All images are interpolated.
 
-## List of movies
+## List of videos
 
 1. [Upper/middle trapezius muscle: instantaneous signal. Slight shoulder elevation. ](/en/emg/material/videos/f1/)
 2. [Vastus medialis muscle: instantaneous signal. Slight extension of the leg.](/en/emg/material/videos/f2/)
