@@ -9,9 +9,11 @@ ref: cv
 <img src="/assets/img/cv_photo.jpg" style="float:right; height: 14em">
 
 <div style="float:right; clear: right; margin-top: 1em">
-    <span class="label label-danger">
-        <a href="/assets/pdfs/cv_short.en.pdf"><span class="glyphicon glyphicon-download" aria-hidden="true"></span>Download PDF</a>
-    </span>
+    <h4>
+        <span class="label label-danger">
+            <a href="/assets/pdfs/cv_short.en.pdf" style="color: #fff"><span class="glyphicon glyphicon-download" aria-hidden="true"></span>Download PDF</a>
+        </span>
+    </h4>
 </div>
 
 ## Prof. Roberto Merletti, Ph.D.
