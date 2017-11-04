@@ -8,6 +8,12 @@ ref: cv
 
 <img src="/assets/img/cv_photo.jpg" style="float:right; height: 14em">
 
+<div style="float:right; clear: right; margin-top: 1em">
+    <span class="label label-danger">
+        <a href="/assets/pdfs/cv_short.it.pdf"><span class="glyphicon glyphicon-download" aria-hidden="true"></span>Scarica PDF</a>
+    </span>
+</div>
+
 ## Prof. Roberto Merletti, Ph.D.
 
 ## Gennaio 2017
