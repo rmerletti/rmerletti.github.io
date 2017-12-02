@@ -31,4 +31,4 @@ Some movies show the instantaneous distribution of electric voltage (detected at
 17. [Right trapezius of a flute player.](/en/emg/material/videos/f17/)
 18. [Right and left trapezius of a violin player in concert. 1 of 2.](/en/emg/material/videos/f18/)
 19. [Right and left trapezius of a violin player in concert. 2 of 2.](/en/emg/material/videos/f19/)
-20. [Controlling the speed of a toy car on a Playmobil racing track.](/en/emg/material/videos/f20/)
+20. [Controlling the speed of a toy car on a Polistil racing track.](/en/emg/material/videos/f20/)

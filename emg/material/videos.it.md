@@ -31,4 +31,4 @@ Alcuni filmati mostrano  la distribuzione  istantanea di tensione (rilevata a 20
 17. [Trapezio destro di una flautista.](/it/emg/material/videos/f17/)
 18. [Trapezio destro e sinistro di violinista in concerto. 1 di 2.](/it/emg/material/videos/f18/)
 19. [Trapezio destro e sinistro di violinista in concerto. 2 di 2.](/it/emg/material/videos/f19/)
-20. [Controllo della velocita’ di automobiline su pista Playmobil.](/it/emg/material/videos/f20/)
+20. [Controllo della velocita’ di automobiline su pista Polistil.](/it/emg/material/videos/f20/)
