@@ -39,11 +39,13 @@ footer {
 }
 
 nav {
-  a:link,
-  a:visited,
-  a:hover,
-  a:active {
-    color: #fff;
+  a {
+    &:link,
+    &:visited,
+    &:hover,
+    &:active {
+      color: #fff;
+    }
   }
 }
 
@@ -104,13 +106,15 @@ nav {
   min-height: 90vh;
   background: rgba(255, 255, 255, 0.68)
 
-  a:link,
-  a:visited {
-    text-decoration:underline;
-    color: #6e260a;
-  }
-  a:hover,
-  a:active {
-    color: #fff;
+  a {
+    &:link,
+    &:visited {
+      text-decoration:underline;
+      color: #6e260a;
+    }
+    &:hover,
+    &:active {
+      color: #fff;
+    }
   }
 }
