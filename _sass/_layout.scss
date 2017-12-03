@@ -28,13 +28,15 @@ footer {
   color: rgb(157, 157, 157);
   min-height: 200px;
 
-  a:link,
-  a:visited {
-    color: rgb(157, 157, 157);
-  }
-  a:hover,
-  a:active {
-    color: #fff;
+  a {
+    &:link,
+    &:visited {
+      color: rgb(157, 157, 157);
+    }
+    &:hover,
+    &:active {
+      color: #fff;
+    } 
   }
 }
 
