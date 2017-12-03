@@ -38,6 +38,15 @@ footer {
   }
 }
 
+nav {
+  a:link,
+  a:visited,
+  a:hover,
+  a:active {
+    color: #fff;
+  }
+}
+
 .dropdown-submenu {
     position: relative;
 
