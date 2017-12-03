@@ -10,6 +10,14 @@ body.default {
 
 .navbar-brand {
   color: #fff;
+  a {
+    &:link,
+    &:visited,
+    &:hover,
+    &:active {
+      color: #fff;
+    } 
+  }
   font-family: 'Libre Baskerville', serif;
 }
 
@@ -41,7 +49,7 @@ footer {
 }
 
 nav {
-  a {
+  a.dropdown-toggle {
     &:link,
     &:visited,
     &:hover,
