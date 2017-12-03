@@ -7,8 +7,7 @@ body.default {
   background-repeat: no-repeat;
   background-position: top left;
 }
-
-.navbar-brand {
+.navbar-inverse .navbar-brand {
   color: #fff;
   a {
     &:link,
