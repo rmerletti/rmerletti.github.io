@@ -120,7 +120,7 @@ permalink: /it/
     <div class="col-md-4 col-sm-12 col-xs-12">
       <img src="{{ site.baseurl }}/assets/img/updates.png" class="circleIcon" />
       <h2>Aggiornamenti</h2>
-      {% assign posts=site.posts | where:"lang", page.lang | sort: 'date' %}
+      {% assign posts=site.posts | where:"lang", page.lang | sort: 'date' | reverse %}
       {% for post in posts %}
         <p>
           <small><strong>{{ post.date | date: "%Y-%m-%d" }}</strong></small>
