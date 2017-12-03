@@ -94,14 +94,6 @@ ref: cvbooks
         </td>
     </tr>
     <tr>
-        <td colspan="2">
-            <h3>Other textbooks on Surface Electromyography</h3>
-            <img src="/assets/img/book_covers/SurfaceElectromyography.jpg" />
-            <img src="/assets/img/book_covers/IntroToSurfaceElectromyography.jpg" />
-            <img src="/assets/img/book_covers/ClinicalAppsInSurfaceElectromyography.jpg" />
-        </td>
-    </tr>
-    <tr>
         <td class="booksImageContainer">
             <img src="/assets/img/book_covers/2006_BEES.jpg" />
         </td>
@@ -185,18 +177,6 @@ ref: cvbooks
         </td>
         <td>
             <h3>Accompanying book edited by R. Merletti.   Contributors: R. Casale, D. Farina, M. Gazzoni,  R. Merletti, A. Merlo, M. Nazzaro, P. Parker,  A. Rainoldi, M.P. Schieroni, Edizioni Coop. Libraria Universitaria. Torino (CLUT), Italy, 2000.</h3>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="/assets/img/book_covers/1985_MusclesAlive.jpg" />
-            <p><strong>Fifth edition, 1985</strong></p>
-        </td>
-        <td>
-            <p>“Muscle Alive” is the first and still fundamental book in electro-myography (needle and surface) for physical therapists and movement scientists.</p>
-            <p>The First Edition was authored by Prof. J. Basmajian (MD) and published in 1962. </p>
-            <p>The Fifth Edition was authored by Prof. J. Basmajian (MD) and Prof C. J. De Luca (PhD in Anatomy and Electrical Engineering) in 1985.</p>
-            <p>J. Basmajian and C. J. De Luca have been the pioneers of the field.</p>
         </td>
     </tr>
 </table>
