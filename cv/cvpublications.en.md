@@ -1,13 +1,10 @@
 ---
 layout: default
+title: Complete list of publications,  January 2017
 permalink: /en/cv/publications/
 lang: en
 ref: cvpublications
 ---
-
-# Prof. Roberto Merletti, Ph.D. 
-
-## Complete list of publications,  January 2017
 
 ### Publications:  Books and Chapters of Books
 

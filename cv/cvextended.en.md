@@ -6,9 +6,8 @@ lang: en
 ref: cvextended
 ---
 
-<img src="/assets/img/cv_photo.jpg" style="float:right; height: 14em">
-
 <div style="float:right; clear: right; margin-top: 1em">
+    <img src="/assets/img/cv_photo.jpg" style="height: 14em">
     <h4>
         <span class="label label-danger">
             <a href="/assets/pdfs/cv_full.en.pdf"  style="color: #fff"><span class="glyphicon glyphicon-download" aria-hidden="true"></span>Download PDF</a>
@@ -22,7 +21,7 @@ ref: cvextended
 
 ### Personal data
 
-<dl class="dl-horizontal">
+<dl class="dl-horizontal" style="clear:both">
   <dt>Name</dt>               <dd>Roberto Merletti</dd>
   <dt>Place and date of birth</dt>      <dd>Torino, 6 Marzo 1945</dd>
   <dt>Citizenship</dt>                 <dd>Italiana</dd>

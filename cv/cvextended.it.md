@@ -6,9 +6,8 @@ lang: it
 ref: cvextended
 ---
 
-<img src="/assets/img/cv_photo.jpg" style="float:right; height: 14em">
-
 <div style="float:right; clear: right; margin-top: 1em">
+    <img src="/assets/img/cv_photo.jpg" style="height: 14em">
     <h4>
         <span class="label label-danger">
             <a href="/assets/pdfs/cv_full.it.pdf" style="color: #fff"><span class="glyphicon glyphicon-download" aria-hidden="true"></span>Scarica PDF</a>
@@ -22,7 +21,7 @@ ref: cvextended
 
 ### Dati personali e indirizzi
 
-<dl class="dl-horizontal">
+<dl class="dl-horizontal" style="clear:both">
   <dt>Nome e cognome</dt>               <dd>Roberto Merletti</dd>
   <dt>Luogo e data di nascita</dt>      <dd>Torino, 6 Marzo 1945</dd>
   <dt>Cittadinanza</dt>                 <dd>Italiana</dd>
@@ -59,7 +58,7 @@ ref: cvextended
         <td class="col-md-2">1997 - 2015</td><td>Direttore del Laboratorio di Ingegneria del Sistema Neuromuscolare, Politecnico di Torino. Didattica di Dottorato</td>
     </tr>
     <tr>
-        <td class="col-md-2">2005 - 2015</td><td>Professore di Io Fascia di Ingegneria Biomedica, Dipartimento di Elettronica del Politecnico di Torino</td>
+        <td class="col-md-2">2005 - 2015</td><td>Professore di I° Fascia di Ingegneria Biomedica, Dipartimento di Elettronica del Politecnico di Torino</td>
     </tr>
     <tr>
         <td class="col-md-2">1984 - 2005</td><td>Professore Associato di “Strumentazione Biomedica”, Dipartimento di Elettronica del Politecnico di Torino</td>
