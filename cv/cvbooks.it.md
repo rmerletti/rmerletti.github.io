@@ -128,7 +128,7 @@ ref: cvbooks
             <img src="/assets/img/book_covers/2004_NeuromuscularAssesment.jpg" />
         </td>
         <td>
-            <h3>Proceedings of the conclusive Symposium of the EU Project “Neuromuscular Assessment in the Elderly Worker (NEW) ” 2004.</h3>
+            <h3>Atti del simposio conclusivo del progetto europeo “Neuromuscular Assessment in the Elderly Worker (NEW) ”,  2004.</h3>
             <p>Section 1: Epidemiology</p>
             <p>Section 2: Information extraction from EMG and MMG.</p>
             <p>Section 3: Advanced techniques for neuromuscular clinical assessment.</p>
