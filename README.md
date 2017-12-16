@@ -21,7 +21,7 @@ See [Jekyll site](https://jekyllrb.com/docs/windows/)
 ## Run locally for testing
 
 * cd to directory
-* run ```bundler install ```
+* run ```bundler install```
 * run ```bundle exec jekyll serve```
 
 ## Deploy via FTP
@@ -34,14 +34,5 @@ The master branch will automatically be rendered to https://rmerletti.github.io
 
 ## TODO
 
-[x] Install and run jekyll locally on win
-[x] Add local jquery dep
 [ ] Find easy jekyll wysiyg editor
 [ ] Fix running on windows
-[x] Remove lorem-ipsum and add under construction
-[ ] Pages
-    [x] cv-it
-    [ ] cv-it-extended
-    [ ] cv-en
-    [ ] cv-en-extended
-[ ] Point domain to GH
