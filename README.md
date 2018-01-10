@@ -34,5 +34,5 @@ The master branch will automatically be rendered to https://rmerletti.github.io
 
 ## TODO
 
-[ ] Find easy jekyll wysiyg editor
-[ ] Fix running on windows
+- [ ] Find easy jekyll wysiyg editor
+- [ ] Fix running on windows
