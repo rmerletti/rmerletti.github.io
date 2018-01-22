@@ -32,3 +32,5 @@ Some movies show the instantaneous distribution of electric voltage (detected at
 18. [Right and left trapezius of a violin player in concert. 1 of 2.](/en/emg/material/videos/f18/)
 19. [Right and left trapezius of a violin player in concert. 2 of 2.](/en/emg/material/videos/f19/)
 20. [Controlling the speed of a toy car on a Polistil racing track.](/en/emg/material/videos/f20/)
+21. [Biceps brachii: concentric and eccentric contraction](/en/emg/material/videos/f21/)
+22. [Activity of the back muscles during rowing](/en/emg/material/videos/f22/)

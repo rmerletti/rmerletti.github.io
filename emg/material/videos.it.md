@@ -32,3 +32,5 @@ Alcuni filmati mostrano  la distribuzione  istantanea di tensione (rilevata a 20
 18. [Trapezio destro e sinistro di violinista in concerto. 1 di 2.](/it/emg/material/videos/f18/)
 19. [Trapezio destro e sinistro di violinista in concerto. 2 di 2.](/it/emg/material/videos/f19/)
 20. [Controllo della velocita’ di automobiline su pista Polistil.](/it/emg/material/videos/f20/)
+21. [Bicipite brachiale: contrazione concentrica ed eccentrica](/it/emg/material/videos/f21/)
+22. [Attivazione dei muscoli del dorso in un vogatore](/it/emg/material/videos/f22/)
