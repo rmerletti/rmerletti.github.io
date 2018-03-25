@@ -9,7 +9,6 @@ ref: applications
 <!-- APPLICAZIONI -->
 <div class="row">
   <div class="container">
-    <h1 name="applications" id="applications">Applicazioni</h1>
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 rm-tab-container">
           <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 rm-tab-menu">
