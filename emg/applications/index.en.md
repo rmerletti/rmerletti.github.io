@@ -2,7 +2,7 @@
 layout: default
 title: "Applicazioni"
 permalink: /it/emg/applications
-lang: it
+lang: en
 ref: applications
 ---
 
@@ -14,7 +14,8 @@ ref: applications
           <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 rm-tab-menu">
             <div class="list-group">
               <a href="#" class="list-group-item active">Neurophysiology</a>
-              <a href="#" class="list-group-item">Rehabilitation and healthy aging</a>
+              <a href="#" class="list-group-item">Rehabilitation</a>
+              <a href="#" class="list-group-item">Healthy aging</a>
               <a href="#" class="list-group-item">Occupational and Performing Arts Medicine</a>
               <a href="#" class="list-group-item">Fitness and Sport Medicine</a>
               <a href="#" class="list-group-item">Obstetrics and child-delivery</a>

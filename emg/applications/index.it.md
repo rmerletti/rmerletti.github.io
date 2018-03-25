@@ -14,7 +14,8 @@ ref: applications
           <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 rm-tab-menu">
             <div class="list-group">
               <a href="#" class="list-group-item active">Neurofisiologia</a>
-              <a href="#" class="list-group-item">Riabilitazione, invecchiamento sano e attivo</a>
+              <a href="#" class="list-group-item">Riabilitazione</a>
+              <a href="#" class="list-group-item">Invecchiamento sano e attivo</a>
               <a href="#" class="list-group-item">Medicina del lavoro e delle arti</a>
               <a href="#" class="list-group-item">Fitness e medicina dello sport</a>
               <a href="#" class="list-group-item">Ostetricia e prevenzione delle lesioni da parto</a>
