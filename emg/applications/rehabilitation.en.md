@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Applications: Rehabilitation and healthy aging"
+title: "Applications: Rehabilitation"
 permalink: /en/emg/applications/rehabilitation/
 lang: en
 ref: rehabilitation

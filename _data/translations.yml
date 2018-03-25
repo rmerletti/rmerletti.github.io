@@ -3,16 +3,10 @@ t:
     home:
       name: "Home"
       url: "/"
-    about:
-      name: "About"
-      url: "/about/"
     cv:
       name: "CV"
       url: "/cv/"
   it:
     home:
-      name: "Accueil"
-      url: "/accueil/"
-    about:
-      name: "À propos"
-      url: "/a-propos/"
+      name: "Home"
+      url: "/"
