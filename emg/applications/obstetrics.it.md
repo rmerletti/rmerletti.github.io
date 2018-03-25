@@ -21,5 +21,9 @@ Int Urogynecol J (2014) 25:1097–1103 DOI 10.1007/s00192-014-2356-3 [<a href="/
 C. Cescon, D. Riva, V. Začesta, K. Drusany-Starič, K. Martsidis , O. Protsepko, K. Baessler, R. Merletti,  Effect of vaginal delivery on external anal sphincter muscle innervation pattern evaluated with multichannel surface EMG  Results of the multicentre study TASI-2 (manuscript).
 Int Urogynecol J (2014) 25:1491–1499 DOI 10.1007/s00192-014-2375-0 [<a href="/assets/pdfs/publications/2014_Paper TASI-2_Episiotomy_versione sito.pdf">PDF</a>]
     </li>
+    <li>
+    R Merletti,    I risultati del Progetto Europeo “On Asimmetry In Sphincters (OASIS 2002-2004)” e del Progetto Italiano “Technologies for Anal Sphincter Analysis and Incontinence (TASI)”   Rapporto interno, Maggio 2014
+Laboratorio di Ingegneria del Sistema neuromuscolare,   Politecnico di Torino [<a href="/assets/pdfs/publications/2014_RapportoTASI.pdf">PDF</a>]
+    </li>
 </ul>
 
