@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Applications: Biofeedback technology/training"
+title: "Applications: Biofeedback techniques"
 permalink: /en/emg/applications/biofeedback/
 lang: en
 ref: biofeedback

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Applications: Obstetrics and child-delivery"
+title: "Applications: Obstetrics and prevention of child-delivery lesions"
 permalink: /en/emg/applications/obstetrics/
 lang: en
 ref: obstetrics
