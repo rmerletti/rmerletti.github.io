@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Applicazioni"
-permalink: /it/emg/applications
+permalink: /en/emg/applications
 lang: en
 ref: applications
 ---
