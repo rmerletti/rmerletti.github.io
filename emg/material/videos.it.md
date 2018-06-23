@@ -34,3 +34,5 @@ Alcuni filmati mostrano  la distribuzione  istantanea di tensione (rilevata a 20
 20. [Controllo della velocita’ di automobiline su pista Polistil](/it/emg/material/videos/f20/)
 21. [Bicipite brachiale: contrazione concentrica ed eccentrica 2](/it/emg/material/videos/f21/)
 22. [Attivazione dei muscoli del dorso in un vogatore](/it/emg/material/videos/f22/)
+23. [Giovedi’ Scienza 15 Marzo 2012: La attivita’ elettrica dei muscoli e le sue applicazioni](/it/emg/material/videos/f23/)
+24. [Suoni preregistrati e controllati dalla attivita’ muscolare.](/it/emg/material/videos/f24/)
