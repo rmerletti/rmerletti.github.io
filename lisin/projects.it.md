@@ -318,7 +318,7 @@ Due studi hanno analizzato la risposta diretta e riflessa del gastrocnemio alla 
 **Risultati:** Il materiale è strutturato in 10 moduli di 40-60 slides, contenenti animazioni e filmati.
 
 1. Fisica dei fenomeni meccanici elementari
-2. Elementi di biomeccanica, 3) 
+2. Elementi di biomeccanica
 3. Fisica dei fenomeni elettrici elementari 
 4. Elementi di analisi dei segnali bioelettrici 
 5. Elementi di neurofisiologia e meccanismi di generazione del segnale sEMG
