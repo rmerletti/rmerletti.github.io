@@ -6,7 +6,7 @@ lang: en
 ref: emgbooks
 ---
 
-<img src="/assets/img/book_covers/books_graph_it.jpg">
+<img src="/assets/img/book_covers/books_graph_en.jpg">
 
 <table class="table">
     <tr>
