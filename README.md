@@ -21,7 +21,7 @@ See [Jekyll site](https://jekyllrb.com/docs/windows/)
 ## Run locally for testing
 
 * cd to directory
-* run ```bundler install```
+* run ```bundle install```
 * run ```bundle exec jekyll serve```
 
 ## Deploy via FTP
