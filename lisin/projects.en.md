@@ -6,7 +6,7 @@ lang: en
 ref: projects
 ---
 
-1. [Progetti EU](#progetti-eu)
+1. [EU Projects](#eu-projects)
     1. [Surface Electromyography for non invasive assessment of muscle (SENIAM, 1997-1999)](#surface-electromyography-for-non-invasive-assessment-of-muscle-seniam-1997-1999)
     2. [Prevention of muscle disorders in operation of computer input devices (PROCID, 1999-2001)](#prevention-of-muscle-disorders-in-operation-of-computer-input-devices-procid-1999-2001)
     3. [Neuromuscular assessment in the elderly worker (NEW, 2001-2004)](#neuromuscular-assessment-in-the-elderly-worker-new-2001-2004)
@@ -14,16 +14,16 @@ ref: projects
     5. [Technologies for anal sphincter analysis and incontinence (TASI, 2005-2010)](#technologies-for-anal-sphincter-analysis-and-incontinence-tasi-2005-2010)
     6. [Cybernetic manufacturing systems (CYBERMANS, 2006-2009)](#cybernetic-manufacturing-systems-cybermans-2006-2009)
     7. [Decomposition of multichannel surface electromyograms (DEMUSE, 2006-2008)](#decomposition-of-multichannel-surface-electromyograms-demuse-2006-2008)
-2. [Progetti ESA e ASI](#progetti-esa-e-asi)
+2. [ESA and ASI Projects](#esa-and-asi-projects)
     1. [Microgravity effects on skeletal muscles investigated by surface electromyography and mechanomyography (MESM, 2001-2003)](#microgravity-effects-on-skeletal-muscles-investigated-by-surface-electromyography-and-mechanomyography-mesm-2001-2003)
     2. [Osteoporosis and muscular atrophy (OSMA, 2006-2008)](#osteoporosis-and-muscular-atrophy-osma-2006-2008)
-3. [Progetti nazionali e locali](#progetti-nazionali-e-locali)
-    1. [Progetto LISIN-SUISM (2009-2012)](#progetto-lisin-suism-2009-2012)
-    2. [Progetto NICEM - Neuromuscular Investigation and Conditioning in Endocrine Myopathies (NICEM, 2010-2013)](#progetto-nicem---neuromuscular-investigation-and-conditioning-in-endocrine-myopathies-nicem-2010-2013)
-    3. [Progetto BIO-MSD - Indicatori pre-clinici per la prevenzione di patologie muscolo-scheletriche degli arti superiori (BIO-MSD, 2011-2013)](#progetto-bio-msd---indicatori-pre-clinici-per-la-prevenzione-di-patologie-muscolo-scheletriche-degli-arti-superiori-bio-msd-2011-2013)
-    4. [Progetto GAME - Glucocorticoid actions on motor control in the elderly (GAME, 2011-2015)](#progetto-game---glucocorticoid-actions-on-motor-control-in-the-elderly-game-2011-2015)
-    5. [Progetto valutazioni neuromuscolari nei musicisti (2013-2017)](#progetto-valutazioni-neuromuscolari-nei-musicisti-2013-2017)
-    6. [Progetto COMES - Controllo Motorio ed Elettromiografia di Superficie: Sviluppo di Modelli e Strumenti Didattici (COMES, 2018)](#progetto-comes---controllo-motorio-ed-elettromiografia-di-superficie-sviluppo-di-modelli-e-strumenti-didattici-comes-2018)
+3. [National and local projects](#national-and-local-projects)
+    1. [LISIN-SUISM Project (2009-2012)](#lisin-suism-project-2009-2012)
+    2. [NICEM Project - Neuromuscular Investigation and Conditioning in Endocrine Myopathies (NICEM, 2010-2013)](#nicem-project---neuromuscular-investigation-and-conditioning-in-endocrine-myopathies-nicem-2010-2013)
+    3. [BIO-MSD Project - Pre-clinical indicators for the prevention of musculo-skeletal pathologirs pathologies of the upper extremities (BIO-MSD, 2011-2013)](#bio-msd-project---pre-clinical-indicators-for-the-prevention-of-musculo-skeletal-pathologirs-pathologies-of-the-upper-extremities-bio-msd-2011-2013)
+    4. [GAME Project - Glucocorticoid actions on motor control in the elderly (GAME, 2011-2015)](#game-project---glucocorticoid-actions-on-motor-control-in-the-elderly-game-2011-2015)
+    5. [Neuromuscular assessment in musicians (2013-2017)](#neuromuscular-assessment-in-musicians-2013-2017)
+    6. [COMES Projects - Motor control and surface electromyography: Development of models and teaching tools (COMES, 2018)](#comes-projects---motor-control-and-surface-electromyography-development-of-models-and-teaching-tools-comes-2018)
 
 
 **The Projects listed above are shortly described in the following. Results of these and other projects have been reported in about 150 publications and in the following textbooks:**
@@ -40,7 +40,7 @@ ref: projects
 
 Further information, publications and reports about the Projects described below can be requested to [roberto.merletti@polito.it](mailto:roberto.merletti@polito.it). Additional recent material is available on [www.lisin.polito.it](https://www.lisin.polito.it). Teaching material based on these projects will soon be availble
 
-# Progetti EU
+# EU Projects
 
 ---
 
@@ -74,17 +74,15 @@ The Netherlands, Italy, Germany, Belgium, Finland, Greece, Switzerland.
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/procid_logo.png">
 
-**Obiettivi:** Analizzare i meccanismi delle patologie neuromuscolari rapidamente crescenti tra gli operatori di computers e videoterminali. Condividere esperienze e conoscenze a livello europeo. Definire i metodi di indagine e promuoverne la diffusione.
+**Objectives:** To investigate the mechanisms of occupational pathologies rapidly increasing among computer operators. Share EU experiences and knowledge, identify investigation techniques and disseminate them.
 
-**Risultati:** Messa a punto di metodologie di indagine. Promozione di due convegni internazionali e pubblicazione degli atti. Sviluppo di sensori e strumentazione.
+**Results:** Development of EMG-based  investigation techniques. Organization of two international congresses   Development of sensors, instrumentation and software.
 
-**Paesi partecipanti:** Svezia, Italia, Svizzera, Danimarca.
+**Participating Countries:** Sweden, Italy, Switzerland, Denmark.
 
 <div style="clear: both; height: 2em"></div>
 ![](/assets/img/book_covers/1999_Procid_1.jpg)
 ![](/assets/img/book_covers/1999_Procid_2.jpg)
-
-**Commenti:** Sono stati approfonditi e pubblicati studi sugli aspetti neurofisiologici dei meccanismi che causano dolore e patologie agli operatori di computers e videoterminali.
 
 ---
 
@@ -94,11 +92,11 @@ The Netherlands, Italy, Germany, Belgium, Finland, Greece, Switzerland.
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/new_logo.png">
 
-**Obiettivi:** Analizzare i meccanismi delle patologie neuromuscolari rapidamente crescenti tra i lavoratori anziani.  Identificare le variabili rilevanti. Definire i metodi di indagine e promuoverne la diffusione.
+**Objectives:** Investigate neuromuscular pathologies of elederly workers. Identify relevant variables. Disseminate EMG-based  techniques.  
 
-**Risultati:** Messa a punto di metodologie di indagine. Sviluppo di sensori, strumentazione e software. Promozione di un convegno internazionale e pubblicazione degli atti. 
+**Results:** Development of new mthodologies, of new sensors, instrumentation and software. Organization of an international meeting and publication of proceedings. 
 
-**Paesi partecipanti:** Italia, Svizzera, Danimarca, Germania, Olanda, Svezia.
+**Participating Countries:** Italy, Switzerland, Denmark, Germany, The Netherlands, Sweden
 
 <div style="clear: both; height: 2em"></div>
 
@@ -114,13 +112,11 @@ The Netherlands, Italy, Germany, Belgium, Finland, Greece, Switzerland.
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/oasis_logo.png">
 
-**Obiettivi:** Sviluppo di tecniche elettromiografiche per la quantificazione delle asimmetrie dei muscoli del pavimento pelvico. Associazione di tali asimmetrie con lo sviluppo di forme di incontinenza.
+**Objectives:** Development of minimally invasive sEMG techniques to investigate asymmetries of the pelvic floor muscles and forms of fecal and urinary incontinence. 
 
-**Risultati:** Messa a punto di metodologie di indagine elettromiografica. Sviluppo di sensori, strumentazione e software per la rilevazione delle modalità di innervazione delle sfintere anale e uretrale e del muscolo puborettale. I risultati sono illustrati nel numero speciale della rivista Digestion, vol 69, n. 2, pg. 83-130 e in due capitoli di libri.
+**Results:** Special electrode systems, hardware and software have been developed and tested to detect and interpret the EMG of the anal and urethral sphincters and of the puborectalis muscle.  Results have been published in a special issue of  Digestion, vol 69, n. 2, pg. 83-130 and in chapters of two textbooks.
 
-**Paesi partecipanti:** Germania, Italia, Spagna, Olanda.
-
-[DOWNLOAD](/assets/pdfs/rapporto_sintetico_OASIS-TASI.pdf) Rapporto sintetico OASIS-TASI (1.5 MB)
+**Participating Countries:** Italy, Germany, Spain, The Netherlands
 
 <div style="clear: both; height: 2em"></div>
 
@@ -132,16 +128,13 @@ The Netherlands, Italy, Germany, Belgium, Finland, Greece, Switzerland.
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/tasi_logo.png">
 
-**Obiettivi:** Applicazione dei risultati del progetto OASIS allo studio delle lesioni da parto causate da episiotomia e lacerazioni spontanee.
+**Objectives:** Application of the results of OASIS to the investigation of child delivery lesions due to episiotomy and spontaneous lacerations.
 
-**Risultati:** Documentazione delle alterazioni della innervazione dello sfintere anale indotte da episiotomia e da lacerazioni spontanee.  Studio condotto su 500 donne pre- e post-parto.  Risultati pubblicati in due capitoli di libri e sul International Urogynecology Journ.  2014; 25: 1097–1103 e 2014; 25:1491–1499.  
-I risultati sono stati illustrati in numerosi seminari e presentazioni a congressi, nazionali e internazionali, nel settore della ostetricia.
+**Results:** Application of EMG techniques for the automatic identification of the innervation zone of the anal sphincter.  Clinical study carried out on 500 women pre- and post-partum.  Results are published in two chapters of books and in two articles on  International Urogynecology Journ.  2014; 25: 1097–1103 and 2014; 25:1491–1499.  Results have also been described in many seminars and congress presentations.
 
-**Paesi partecipanti:** Italia, Slovenia, Lettonia, Germania, Ucraina.
+**Participating countries:** Italy, Slovenia, Latvia, Germany, Ucrainia
 
-**Commenti:** Sono stati messi a punto strumenti e programmi di elaborazione dei dati maturi per la industrializzazione e il trasferimento clinico e tecnologico.
-
-[DOWNLOAD](/assets/pdfs/final_report_TASI-2.pdf) Rapporto Finale  TASI-2 (1.5 MB).
+[DOWNLOAD](/assets/pdfs/final_report_TASI-2.pdf) Final Report  TASI-2 (1.5 MB).
 
 <div style="clear: both; height: 2em"></div>
 
@@ -153,87 +146,90 @@ I risultati sono stati illustrati in numerosi seminari e presentazioni a congres
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/cybermans_logo.png">
 
-**Obiettivi:** Identificare le interazioni uomo-macchina che potenzialmente possono generare patologie neuromuscolari e muscoloscheletriche. Identificare modalità di progettazione ergonomica di workstation e dispositivi di ausilio (Cobot).
+**Objectives:** Identification of occupational activities that can generate neuromuscular pathologies. Design of ergonomic workstations and assistive devices (Cobot).
 
-**Risultati:** Sono state messe a punto metodologie di indagine e sviluppati sensori, strumentazione e software. Sono stati valutati modelli per l’analisi ergonomica. Sono stati promossi convegni e iniziative di formazione. E’ stato sviluppato un prototipo sperimentale di Intelligent Work Assistant Device di ausilio alla attività del lavoratore.
+**Results:** Specific sensors hardware and software have been developed. A prototype of Intelligent Work Assistant Device has been implemented.
+Workshops, courses and training initiatives have been organized.
 
-**Paesi partecipanti:** Italia, Danimarca, Germania, Irlanda, Olanda.
+**Participating countries:** Italy, Denmark, Germany, The Netherlands.
 
 <div style="clear: both; height: 2em"></div>
 
 ---
 
-<span class="label label-default">Progetto EU - (Marie Curie Intra-European Fellowship)</span>
+<span class="label label-default">EU Project - (Marie Curie Intra-European Fellowship)</span>
 
 ## Decomposition of multichannel surface electromyograms (DEMUSE, 2006-2008)
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/demuse_logo.png">
 
-**Obiettivi:** Decomporre il segnale sEMG nei costituenti treni di potenziali di unità motoria e identificarne i parametri e le strategie di controllo da parte del SNC.
+**Objectives:** Develop an algorithm for the decomposition of sEMG signal into the constituent action potential trains in order to reveal the muscle control strategies implemented by the CNS.
 
-**Risultati:** Sono state messe a punto metodologie di  prelievo del segnale con matrici di elettrodi e algoritmi di decomposizione automatica del segnale. Gli algoritmi sono stati valutati e gli errori quantificati per mezzo di segnali simulati di struttura nota. Il sistema è stato applicato con successo in altri progetti europei inerenti lo studio del tremore e di altre patologie.
+**Results:** 2D sEMG electrode arrays and automatic  decomposition software have been developed. The algorithms have been tested using simulated signals. These tools have been successfully applied in other projects concerning tremor and other pathologies.
 
-**Paesi partecipanti:** Slovenia, Italia.
+**Participating countries:** Slovenia, Italy.
 
-**Contatto:** Prof. Aleš Holobar, Università di Maribor, Slovenia, [ales.holobar@um.si](mailto:ales.holobar@um.si)
+**Contatto:** Prof. Aleš Holobar, University of Maribor, Slovenia, [ales.holobar@um.si](mailto:ales.holobar@um.si)
 
 <div style="clear: both; height: 2em"></div>
 
 ---
 
-# Progetti ESA e ASI
+# ESA and ASI Projects
 
 ---
 
-<span class="label label-default">Progetto ESA (ESA e Compagnia di San Paolo)</span>
+<span class="label label-default">ESA Project (ESA and Compagnia di San Paolo)</span>
 
 ## Microgravity effects on skeletal muscles investigated by surface electromyography and mechanomyography (MESM, 2001-2003)
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/esa_logo1.png">
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;; clear: left" src="/assets/img/esa_logo2.png">
 
-**Obiettivi:** Sviluppo di metodi e strumenti atti a quantificare in modo non invasivo le alterazioni subite dal sistema neuromuscolare in condizioni di micro-gravità.
+**Objectives:** Development of techniques for non-invasive assessment of neuromuscular changes due to microgravity. 
 
-**Risultati:** Sono state messe a punto metodologie di  
+**Results:** Development of methodologies for
 
-- prelievo del segnale sEMG con matrici di elettrodi e 
-- prelievo del segnale meccanomiografico con accelerometri. Sono stati sviluppati strumenti e programmi per lo studio di contrazioni muscolari volontarie e indotte elettricamente. Tali tecniche sono applicabili anche in medicina dello sport e della riabilitazione motoria.
+- detection of sEMG with 2D elecrode arrays 
+- detection of mechanomyographic signals by means of accelerometers
 
-**Paesi partecipanti:** Italia, Svezia.
+Development of hardware and software for the investigation of sEMG during voluntary and electrically elicited contractions.  The developed techniques are relevant in sport and rehabilitation medicine.
+
+**Participating countries:** Italy,  Sweeden.
 
 <div style="clear: both; height: 2em"></div>
 
 ---
 
-<span class="label label-default">Progetto ASI</span>
+<span class="label label-default">ASI Project</span>
 
 ## Osteoporosis and muscular atrophy (OSMA, 2006-2008)
 
-**Obiettivi:** Applicazioni delle tecnologie sviluppate al LISiN per valutare quantitativamente e in modo non invasivo la atrofia muscolare e le alterazioni subite dal sistema neuromuscolare in condizioni di micro-gravità.
+**Objectives:** Application of sEMG technologies for non-invasive  assessment  of muscle atrophy induced by microgravity.
 
-**Risultati:** Sono state utilizzate tecniche di EMG Imaging (elettromiografia ad alta densità di elettrodi, HDsEMG) per sviluppare protocolli di valutazione basati sulla risposta mioelettrica a contrazioni muscolari volontarie e indotte elettricamente. Tali tecniche sono applicabili anche in medicina dello sport e della riabilitazione motoria.
+**Results:** Development of hardware and software for the investigation of sEMG during voluntary and electrically elicited contractions.  The developed techniques are relevant in sport and rehabilitation medicine.
 
-**Enti partecipanti:**  ASI, ESA, LISIN-Politecnico di Torino.
+**Participating institutions:**  ASI, ESA, LISIN-Politecnico di Torino.
 
 <div style="clear: both; height: 2em"></div>
 
 ---
 
-# Progetti nazionali e locali
+# National and local projects
 
 ---
 
 <span class="label label-default">Compagnia di San Paolo</span>
 
-## Progetto LISIN-SUISM (2009-2012)
+## LISIN-SUISM Project (2009-2012)
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/suism_project_pic.png">
 
-**Obiettivi:** Sviluppo di materiale didattico relativo a tecniche ed applicazioni cliniche di elettromiografia di superficie (sEMG) per studenti e professionisti del settore. Svolgimento di progetti di ricerca congiunti nell’ambito delle scienze motorie e dello sport focalizzati sulla analisi del movimento e sullo studio di forza e fatica.
+**Objectives:** Development of teaching material about sEMG and its clinical applications oriented to students of physical therapy and movement sciences. Development of joint research projects focusing of sport and movement sciences, on the assessment of movement and fatigue.
 
-**Risultati:** E' stato sviluppato uno strumento didattico multimediale e bilingue (italiano e inglese) per l'insegna-mento di concetti di biomeccanica di base, analisi dei segnali, biofisica della generazione del segnale EMG, modalità di prelievo, elaborazione ed interpretazione del segnale EMG. E’ stato preparato  il testo “Atlas of muscle innervation zones: understanding surface EMG and its applications” di Barbero R., Rainoldi A, Merletti R. pubblicato da  Springer, Italy, 2012.
+**Results:** An on-line bilingual and multimedia teaching tool has been developed and focused on basic biomechanics, signal analysis, biophysics of EMG generation, sEMG detection, processing and interpretation techniques. The platform was based on Adobe Flash Player which is no longer available since 2016. A main result is the textbook  “Atlas of muscle innervation zones: understanding surface EMG and its applications” Barbero R., Rainoldi A, Merletti R. published by  Springer, Italy, 2012.
 
-**Enti partecipanti:** Scuola Universitaria Interfacoltà di Scienze Motorie della Università di Torino (SUISM); LISIN, Politecnico di Torino.
+**Participating institutions** Scuola Universitaria Interfacoltà di Scienze Motorie della Università di Torino (SUISM); LISIN, Politecnico di Torino.
 
 <div style="clear: both; height: 2em"></div>
 
@@ -242,13 +238,13 @@ I risultati sono stati illustrati in numerosi seminari e presentazioni a congres
 <span class="label label-default">Regione Piemonte (Ricerca Sanitaria Finalizzata 2009)</span>
 <span class="label label-default">Fondazione Cassa di Risparmio di Saluzzo, Compagnia di San Paolo</span>
 
-## Progetto NICEM - Neuromuscular Investigation and Conditioning in Endocrine Myopathies (NICEM, 2010-2013)
+## NICEM Project - Neuromuscular Investigation and Conditioning in Endocrine Myopathies (NICEM, 2010-2013)
 
-**Obiettivi:** Studio delle alterazioni muscolari nelle miopatie endocrine e farmaco-indotte e la valutazione dell’efficacia della stimolazione elettrica neuromuscolare nella valutazione e nel miglioramento delle prestazioni muscolari in soggetti sani e in pazienti affetti da malattie endocrine.
+**Objectives:** To study cramps. To investigate neuromuscular changes induced by endocrine and drug-induced myopathies. To study neuromuscular electrical stimulation as a possible tool to assess changes in healthy subjects and in subjects affected by these pathologies.
 
-**Risultati:** Sono stati condotti 11 studi sulla risposta del sistema neuromuscolare alla stimolazione elettrica, sulla induzione e valutazione quantitativa dei crampi, sul morbo di Cushing e sull’eccesso di glucocorticoidi. Il progetto ha prodotto 12 pubblicazioni su riviste internazionali. 
+**Results:** Eleven studies have been carried out to a) investigate the sEMG during cramps, b) to assess the neuromuscular changes induced by Cushing disease and by excess of glucocorticoids.  The projects resulted in 12 publications on peer reviewed international journals.
 
-**Enti partecipanti:** Divisione di Endocrinologia, Diabetologia e Metabolismo della Università di Torino; LISIN-Politecnico di Torino.
+**Participating institutions** Divisione di Endocrinologia, Diabetologia e Metabolismo della Università di Torino; LISIN-Politecnico di Torino.
 
 <div style="clear: both; height: 2em"></div>
 
@@ -256,15 +252,15 @@ I risultati sono stati illustrati in numerosi seminari e presentazioni a congres
 
 <span class="label label-default">Ministero della Salute</span>
 
-## Progetto BIO-MSD - Indicatori pre-clinici per la prevenzione di patologie muscolo-scheletriche degli arti superiori (BIO-MSD, 2011-2013)
+## BIO-MSD Project - Pre-clinical indicators for the prevention of musculo-skeletal pathologirs pathologies of the upper extremities (BIO-MSD, 2011-2013)
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/bio-msd-project-pic.png">
 
-**Obiettivi:** Migliorare la comprensione dei disturbi muscoloscheletrici degli arti superiori e fornire criteri oggettivi per la diagnosi e la classificazione con tecniche non invasive.
+**Objectives:** to improve the understanding of musculoskeletal disorders of the upper extremities and provide objective criteria for their diagnosis, classification and assessment using non-invasive techniques. 
 
-**Risultati:** Sono stati identificati e studiati bio-markers di natura chimica, meccanica, elettrofisio-logica e sensoriale in individui sani e affetti da patologie occupazionali.
+**Results:** Chemical, mechanical, electrophysiological and sensory biomarkers have been investigated in healthy subjects and in subjects affected by occupational pathologies. 
 
-**Enti partecipanti:** Servizio di Epidemiologia della Regione Piemonte, Dipart. di Neuroscienze della Università di Torino, Unità di medicina del lavoro del CTO di Torino, LISIN-Politecnico di Torino.
+**Participating institutions** Servizio di Epidemiologia della Regione Piemonte, Dipart. di Neuroscienze della Università di Torino, Unità di medicina del lavoro del CTO di Torino, LISIN-Politecnico di Torino.
 
 <div style="clear: both; height: 2em"></div>
 
@@ -272,31 +268,30 @@ I risultati sono stati illustrati in numerosi seminari e presentazioni a congres
 
 <span class="label label-default">Compagnia di San Paolo</span>
 
-## Progetto GAME - Glucocorticoid actions on motor control in the elderly (GAME, 2011-2015)
+## GAME Project - Glucocorticoid actions on motor control in the elderly (GAME, 2011-2015)
 
-**Obiettivi:** Studiare la relazione tra trattamento acuto con glucocorticoidi e produzione e controllo di forza muscolare.
+**Objectives:** To study the effect of acute treatment with glucocorticoids on the production and control of muscle force. 
 
-**Risultati:** Due studi hanno analizzato l’effetto del dexametasone sui meccanismi corticospinali attraverso la risposta sEMG alla stimolazione magnetica transcranica. 
-Due studi hanno analizzato la risposta diretta e riflessa del gastrocnemio alla stimolazione elettrica. I risultati sono stati descritti in due pubblicazioni su riviste internazionali e in sei seminari tenuti a Bruxelles e Torino. 
+**Results:** Two studies investigated the effect of dexamethasone on corticospinal mechanisms through the sEMG response to transcranial magnetic stimulation. Two additional studies investigated the response of the gastrocnemius muscle to electrical stimulation.  Results are described in two publications on Artif. Organs (2011) and Med Sci Sports Exerc. (2013). 
 
-**Enti partecipanti:**  Laboratory of Applied Biology, ULB Neuroscience Institute, Université Libre de Bruxelles, Belgio; Divisione di Diabetologia e Metabolismo della Università di Torino; LISIN-Politecnico di Torino.
+**Participating institutions**  Laboratory of Applied Biology, ULB Neuroscience Institute, Université Libre de Bruxelles, Belgium; Divisione di Diabetologia e Metabolismo della Università di Torino; LISIN-Politecnico di Torino, Italy.
 
 ---
 
 <span class="label label-default">Progetto Lagrange (Fondazione CRT)</span>
 <span class="label label-default">Varier Furniture</span>
 
-## Progetto valutazioni neuromuscolari nei musicisti (2013-2017)
+## Neuromuscular assessment in musicians (2013-2017)
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/music_project_pic.png">
 
-**Obiettivi:** Migliorare la comprensione del controllo dei muscoli degli arti superiori e del dorso in violinisti e pianisti. Confrontare diversi tipi di sedute e posture sulla base dei segnali EMG prodotti.
+**Objectives:** To improve the understanding of motor control  of muscles of the upper limb and back in violin and piano players. Compare chairs and postures using surface EMG technology.
 
-**Risultati:** Un primo studio ha dimostrato la correlazione tra i segnali sEMG degli erettori spinali, la corda di violino suonata e la sedia utilizzata. Un secondo studio ha confrontato il sEMG associato a due sedie e dimostrato la preferibilità di una di esse sia per violinisti, sia per pianisti. Il progetto ha prodotto quattro pubblicazioni scientifiche internazonali. 
+**Results:** A first study demonstrated the correlation between the activities of the erector spinae muscles, the string played and the chair used. A second study compared the sEMG amplidude associated to two chairs and demonstrated  that one was preferable to the other. The project produced three publications on international Journals (MPPA and JEK) and a fourth is in preparation.
 
-**Enti partecipanti:** Progetto Lagrange, LISIN-Politecnico di Torino, Conservatori di Torino, Alessandria e Cuneo, Varier Furniture Italia.
+**Participating institutions** Progetto Lagrange, LISIN-Politecnico di Torino, Conservatori di Torino, Alessandria e Cuneo, Varier Furniture Italia.
 
-**Rapporti finali:**
+**Final reports:**
 
 - [2015](/assets/pdfs/Rapporto_Lagrange_2015.pdf)
 - [2015-2016](/assets/pdfs/Rapporto_Lagrange_2015-2016.pdf)
@@ -309,29 +304,27 @@ Due studi hanno analizzato la risposta diretta e riflessa del gastrocnemio alla 
 <span class="label label-default">Compagnia di San Paolo</span>
 <span class="label label-default">Associazione Italiana Fisioterapisti</span>
 
-## Progetto COMES - Controllo Motorio ed Elettromiografia di Superficie: Sviluppo di Modelli e Strumenti Didattici (COMES, 2018)
+## COMES Projects - Motor control and surface electromyography: Development of models and teaching tools (COMES, 2018)
 
 <img style="float: left; padding: 10px; border: 1px solid #000; margin: 10px 20px 10px 10px;" src="/assets/img/progetto_comes_pic.png">
 
-**Obiettivi:** Rendere disponibile materiale didattico on-line realizzato per, e in collaborazione con, fisioterapisti e chinesiologi, su temi di biomeccanica e di sEMG.
+**Objectives:** To promote collaborations with physical therapists, kinesiologists and movement scientists for developing a package of teaching material, available on-line, on basic biomechanics and sEMG. 
 
-**Risultati:** Il materiale è strutturato in 10 moduli di 40-60 slides, contenenti animazioni e filmati.
+**Results:** The material is structured in 10 modules each containing  40-60 slides, animations and movies.
 
-1. Fisica dei fenomeni meccanici elementari
-2. Elementi di biomeccanica
-3. Fisica dei fenomeni elettrici elementari 
-4. Elementi di analisi dei segnali bioelettrici 
-5. Elementi di neurofisiologia e meccanismi di generazione del segnale sEMG
-6. Il prelievo del segnale sEMG: modalità, criteri, errori comuni
-7. Parametri e variabili del segnale sEMG
-8. Le raccomandazioni europee e il loro aggiornamento, 
-9. Modelli matematici e simulazioni didattiche su computer di segnali sEMG
-10. Esempi di registrazioni e interpretazioni del segnale sEMG.
+Table of contents:
 
-Materiale in preparazione.
+1. Physics of basic mechanical phenomena
+2. Basic biomechanics 
+3. Physics of basic electrical phenomena
+4. Basic concepts of analysis and processing of bioelectric signals
+5. Basic concepts of neurophysiology and mechanisms of generation of the sEMG
+6. Detection of the  sEMG signal: correct modalities and common errors
+7. Parameters and variables of the sEMG signal
+8. European Recommendations and their updating
+9. Mathematical models and computer simulations of sEMG signals
+10. Examples and recording and interpretation of sEMG signals. 
 
-Data prevista di disponibilità in rete: fine 2018.
-
-**Enti partecipanti:** LISIN-Politecnico di Torino, AIFI, SIF, Univ. of Birmingham (UK), Northwestern Univ. (Chicago).
+**Participating institutions** LISIN-Politecnico di Torino, AIFI, SIF, Univ. of Birmingham (UK), Northwestern Univ. (Chicago).
 
 <div style="clear: both; height: 2em"></div>
