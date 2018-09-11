@@ -6,6 +6,13 @@ lang: it
 ref: teaching
 ---
 
+## Controllo motorio ed elettromiografia di superficie
+
+- Modulo 1 ([PPSX](/assets/pptx/it_mod01_basi di meccanica_4_sep_2018.ppsx))
+- Modulo 2 ([PPSX](/assets/pptx/it_mod02_concetti_di_base_di_biomeccanica.ppsx))
+
+## Presentazioni
+
 - [Le malattie muscolo scheletriche e il monitoraggio dell’attività muscolare mediante tecniche di elettromiografia di superficie.](/it/emg/material/teaching/seminario_dors)<br />
 Centro Regionale di Documentazione per la Promozione della Salute (DORS)<br />
 Regione Piemonte e A.S.L. TO3.
