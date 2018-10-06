@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Complete list of publications,  January 2017
+title: Complete list of publications
 permalink: /en/cv/publications/
 lang: en
 ref: cvpublications
 ---
+
+[Download list as PDF](/assets/pdfs/publications.en.pdf)
 
 ### Publications:  Books and Chapters of Books
 
@@ -183,4 +185,5 @@ Electroenc. and Clin. Neurophys., 69, pg. 568-575, 1988
 157. Afsharipour B., Ullah K., Merletti R., Amplitude indicators and spatial aliasing in high density surface electromyography recordings, Biomed. Signal Proc. and Control, 2015; 22: 170-179.
 158. Afsharipour B, Petracca F, Gasparini M, Merletti R. Spatial distribution of surface EMG on trapezius and lumbar muscles of violin and cello players in single note playing.
 J Electromyogr Kinesiol. 2016; 31: 144-153. 
-159. Cattarello P., Merletti R. , Petracca F., Analysis of High Density Surface EMG and finger pressure in the left forearm of violin players.  Medical Problems of Performing Artists (in press)
+159. Cattarello P., Merletti R. , Petracca F., Analysis of High Density Surface EMG and finger pressure in the left forearm of violin players.  Medical Problems of Performing Artists, September 2017, pg 139-151,  [https://doi.org/10.21091/mppa.2017.3023160](https://doi.org/10.21091/mppa.2017.3023160)
+160. Cattarello P., Vinelli S., D’Emanuele S., GazzoniM., Merletti R. Comparison of chairs based on HDsEMG of back muscles, biomechanical and comfort indices, for violin and viola players: A short term study. JElectromyogr Kinesiol.2018; 42: 92-103.
