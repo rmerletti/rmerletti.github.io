@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Applications"
+title: "Applicazioni"
 permalink: /it/emg/applications
 lang: it
 ref: applications
