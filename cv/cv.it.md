@@ -14,7 +14,7 @@ ref: cv
 
 <h4>
     <span class="label label-danger">
-        <a href="/assets/pdfs/cv_short.it.pdf" style="color: #fff"><span class="glyphicon glyphicon-download" aria-hidden="true"></span>Scarica PDF</a>
+        <a href="/assets/pdfs/cv_short.it.pdf" style="color: #fff; text-decoration: none"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Scarica PDF</a>
     </span>
 </h4>
 

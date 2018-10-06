@@ -6,7 +6,11 @@ lang: it
 ref: cvpublications
 ---
 
-[Scarica lista come PDF](/assets/pdfs/publications.en.pdf)
+<h4>
+    <span class="label label-danger">
+        <a href="/assets/pdfs/publications.it.pdf" style="color: #fff; text-decoration: none"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Scarica PDF</a>
+    </span>
+</h4>
 
 ### Pubblicazioni: Libri e capitoli di libri
 

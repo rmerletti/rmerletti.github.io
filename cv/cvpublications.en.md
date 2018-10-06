@@ -6,7 +6,11 @@ lang: en
 ref: cvpublications
 ---
 
-[Download list as PDF](/assets/pdfs/publications.en.pdf)
+<h4>
+    <span class="label label-danger">
+        <a href="/assets/pdfs/publications.en.pdf" style="color: #fff; text-decoration: none"><span class="glyphicon glyphicon-download" aria-hidden="true"></span> Download PDF</a>
+    </span>
+</h4>
 
 ### Publications:  Books and Chapters of Books
 
