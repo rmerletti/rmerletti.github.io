@@ -8,16 +8,15 @@ ref: cv
 
 <div style="float:right; clear: right; margin-top: 1em">
     <img src="/assets/img/cv_photo.jpg" style="height: 14em">
-    <h4>
-        <span class="label label-danger">
-            <a href="/assets/pdfs/cv_short.it.pdf" style="color: #fff"><span class="glyphicon glyphicon-download" aria-hidden="true"></span>Scarica PDF</a>
-        </span>
-    </h4>
 </div>
 
 ## Prof. Roberto Merletti, Ph.D.
 
-## Gennaio 2017
+<h4>
+    <span class="label label-danger">
+        <a href="/assets/pdfs/cv_short.it.pdf" style="color: #fff"><span class="glyphicon glyphicon-download" aria-hidden="true"></span>Scarica PDF</a>
+    </span>
+</h4>
 
 ### Dati personali e indirizzi
 
@@ -30,7 +29,7 @@ ref: cv
     Dip.to di Elettronica, Politecnico di Torino<br />
     Corso Duca degli Abruzzi 24 Torino, 10129<br />
     tel. 011 090 7763 oppure   011 0904137, <br />
-    E-mail: <a href="mailto:roberto.merletti@polito.it">mailto:roberto.merletti@polito.it</a><br />
+    E-mail: <a href="mailto:roberto.merletti@polito.it">roberto.merletti@polito.it</a><br />
     URL: <a href="http://lisin.polito.it">http://lisin.polito.it</a>
   </dd>
   <dt>Posizioni</dt>
