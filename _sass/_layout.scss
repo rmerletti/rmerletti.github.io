@@ -131,3 +131,7 @@ nav {
 h1 {
   border-bottom: #6e260a 2px solid;
 }
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+  background-color: rgb(165, 165, 165);
+}
