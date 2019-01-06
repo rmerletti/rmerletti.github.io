@@ -18,4 +18,4 @@ ref: teaching
 - Module 7 Features and properties of the surface EMG signal ([PPSX](/assets/pptx/en_mod07_EMG_features.ppsx) 44 MB)
 - Module 8 European recommendations and their updating ([PPSX](/assets/pptx/en_mod08_european_recomendations.ppsx) 1 MB)
 - Module 9 Modeling of sEMG (in preparation)
-- Module 10  Examples of acquisition and interpretation of sEMG signals (in preparation)
+- Module 10 Examples of acquisition and interpretation of sEMG signals ([PPSX](/assets/pptx/en_mod10_semg_examples.ppsx) 64.4 MB)

@@ -15,10 +15,10 @@ ref: teaching
 - Modulo 4 Elementi di analisi dei segnali ([PPSX](/assets/pptx/it_mod04_analisi_segnali.ppsx) 8,8 MB)
 - Modulo 5 Basi di elettrofisiologia e generazione del segnale sEMG ([PPSX](/assets/pptx/it_mod05_basi_di_elettrofisiologia_e_generazione_del_segnale_emg.ppsx) 4,4 MB)
 - Modulo 6 Sistemi di prelievo del segnale sEMG ([PPSX](/assets/pptx/it_mod06_sEMG_detection_systems.ppsx) 13,2 MB)
-- Modulo 7 (in preparazione)
+- Modulo 7 Caratteristiche e proprietà del segnale sEMG ([PPSX](/assets/pptx/it_mod07_caratteristiche_proprieta_segnale.ppsx) 93,3 MB)
 - Modulo 8 Le raccomandazioni europee e il loro aggiornamento ([PPSX](/assets/pptx/it_mod08_raccomandazioni_europee.ppsx) 1 MB)
 - Modulo 9 (in preparazione)
-- Modulo 10 (in preparazione)
+- Modulo 10 Esempi di acquisizione e interpretazione del segnale sEMG ([PPSX](/assets/pptx/it_mod10_esempi_semg.ppsx) 64,6 MB)
 
 ## Presentazioni
 
