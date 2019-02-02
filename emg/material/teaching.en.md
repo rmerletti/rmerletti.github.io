@@ -6,8 +6,9 @@ lang: en
 ref: teaching
 ---
 
-## Movement control and non invasive electromyography
+## Movement control and non invasive electromyography: Project CoMES.
 
+- Project CoMES Final report ([PDF](/assets/pdfs/comes_rapporto_finale.pdf) 1.5 MB)
 - Introduction ([PDF](/assets/pptx/en_introduction_to_the_teaching_material.pdf) 0.6 MB)
 - Module 1 Basic Mechanics ([PPSX](/assets/pptx/en_mod01_basic_mechanics_4_sep_2018.ppsx) 21.4 MB)
 - Module 2 Basic Biomecanics ([PPSX](/assets/pptx/en_mod02_basic_concepts_biomechanics.ppsx) 37.3 MB)
