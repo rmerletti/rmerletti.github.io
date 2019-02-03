@@ -13,8 +13,6 @@
   }
 }
 
-
-
 @media screen and (min-width: 1200px) {
   .homeHeader .container {
     padding-top: 4em;
@@ -79,6 +77,11 @@
   background-clip: padding-box;
   opacity: 0.70;
   filter: alpha(opacity=70);
+
+  li > a {
+    font-weight: bold;
+    font-size: 1.15em;
+  }
 }
 
 /*  rm tab */
