@@ -35,3 +35,4 @@ Some movies show the instantaneous distribution of electric voltage (detected at
 21. [Biceps brachii: concentric and eccentric contraction 2](/en/emg/material/videos/f21/)
 22. [Activity of the back muscles during rowing](/en/emg/material/videos/f22/)
 23. [Pre-recorded sounds controlled by muscle activity](/en/emg/material/videos/f23/)
+24. [Rehabilitation Robotics Demo](/en/emg/material/videos/f24/)

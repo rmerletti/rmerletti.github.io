@@ -35,3 +35,4 @@ Alcuni filmati mostrano  la distribuzione  istantanea di tensione (rilevata a 20
 21. [Bicipite brachiale: contrazione concentrica ed eccentrica 2](/it/emg/material/videos/f21/)
 22. [Attivazione dei muscoli del dorso in un vogatore](/it/emg/material/videos/f22/)
 23. [Suoni preregistrati e controllati dalla attivita’ muscolare.](/it/emg/material/videos/f23/)
+24. [Riabilitazione Robotica](/it/emg/material/videos/f24/)
