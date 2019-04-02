@@ -1,9 +1,11 @@
 ---
 layout: default
-title: "EMG: Che cos'è?"
-permalink: /it/emg/what/
-lang: it
+title: "EMG: What is it?"
+permalink: /en/emg/what/
+lang: en
 ref: what
 ---
 
-Under construction...
+<iframe src="https://onedrive.live.com/embed?cid=E964CF1763131888&resid=E964CF1763131888%21521&authkey=AHiSrQ6gRluHd_g&em=2" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+[Download as PPTX](/assets/pptx/en_what_is_emg.pptx)
