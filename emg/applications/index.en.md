@@ -6,14 +6,15 @@ lang: en
 ref: applications
 ---
 
-<!-- APPLICAZIONI -->
-<div class="row">
+<!-- APPLICATIONS -->
+<div class="row" style="padding: 1em">
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 rm-tab-container">
           <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 rm-tab-menu">
             <div class="list-group">
-              <a href="#" class="list-group-item active">Neurophysiology and Movement Sciences</a>
+              <a href="#" class="list-group-item active">General applications</a>
+              <a href="#" class="list-group-item">Neurophysiology and Movement Sciences</a>
               <a href="#" class="list-group-item">Rehabilitation Engineering</a>
               <a href="#" class="list-group-item">Healthy aging</a>
               <a href="#" class="list-group-item">Occupational and Performing Arts Medicine</a>
@@ -26,6 +27,10 @@ ref: applications
           </div>
           <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 rm-tab">
               <div class="rm-tab-content active">
+                <h2>General applications</h2>
+                See the dissemination tutorials "<a href="/assets/pdfs/space_sport_ergonomics_sphincters.pdf">Space, sport, ergonomics and sphincters</a>" published by the EU magazine "Science, Technology and Innovation Projects" and "<a href="/en/emg/what/semg">What is sEMG?</a>" on this website.
+              </div>
+              <div class="rm-tab-content">
                 <h2>Neurophysiology and Movement Sciences</h2>
                 Investigations of the neuromuscular and motor control systems<br/>
                 <a href="{{ site.baseurl }}/en/emg/applications/neurophysiology">Read more</a>

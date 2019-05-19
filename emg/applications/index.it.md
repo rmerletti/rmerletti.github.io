@@ -7,13 +7,14 @@ ref: applications
 ---
 
 <!-- APPLICAZIONI -->
-<div class="row">
+<div class="row"  style="padding: 1em">
   <div class="container-fluid">
     <div class="row">
       <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 rm-tab-container">
           <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 rm-tab-menu">
             <div class="list-group">
-              <a href="#" class="list-group-item active">Neurofisiologia e Scienze Motorie</a>
+              <a href="#" class="list-group-item active">Applicazioni generali</a>
+              <a href="#" class="list-group-item">Neurofisiologia e Scienze Motorie</a>
               <a href="#" class="list-group-item">Ingegneria della riabilitazione</a>
               <a href="#" class="list-group-item">Invecchiamento sano e attivo</a>
               <a href="#" class="list-group-item">Medicina del lavoro e delle arti</a>
@@ -26,6 +27,10 @@ ref: applications
           </div>
           <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 rm-tab">
               <div class="rm-tab-content active">
+                <h2>Applicazioni generali</h2>
+                Vedere il materiale divulgativo illustrato nell'Articolo "<a href="/assets/pdfs/space_sport_ergonomics_sphincters.pdf">Space, sport, ergonomics and sphincters</a>" pubblicato dalla rivista europea "Science, Technology and Innovation Projects" (2008) and in "<a href="/it/emg/what/semg">Che cos'è il sEMG?</a>" in questo sito.
+              </div>
+              <div class="rm-tab-content">
                 <h2>Neurofisiologia e Scienze Motorie</h2>
                 Studi sul sistema neuromuscolare e sul sistema di controllo motorio.<br/>
                 <a href="{{ site.baseurl }}/it/emg/applications/neurophysiology">Continua</a>

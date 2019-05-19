@@ -31,8 +31,3 @@ Run ```bundle exec jekyll build``` and then copy the contents of the _site folde
 ## Deploy to github pages
 
 The master branch will automatically be rendered to https://rmerletti.github.io
-
-## TODO
-
-- [ ] Find easy jekyll wysiyg editor
-- [ ] Fix running on windows
