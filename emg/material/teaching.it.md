@@ -11,7 +11,7 @@ ref: teaching
 - Rapporto finale Progetto CoMES ([PDF](/assets/pdfs/comes_rapporto_finale.pdf) 1,5 MB)
 - Valutazioni Progetto CoMES ([PDF](/assets/pdfs/comes_valutazioni.pdf) 0,1 MB)
 - Introduzione ([PDF](/assets/pptx/it_introduzione_al_materiale_didattico.pdf) 0,6 MB)
-- Modulo 1 Basi di Meccanica ([PPSX](/assets/pptx/it_mod01_basi di meccanica.ppsx) 21,5 MB)
+- Modulo 1 Basi di Meccanica [vedi online](/it/emg/material/teaching/module1) ([PPSX](/assets/pptx/it_mod01_basi di meccanica.ppsx) 21,5 MB)
 - Modulo 2 Basi di Biomeccanica ([PPSX](/assets/pptx/it_mod02_concetti_di_base_di_biomeccanica.ppsx) 37,2 MB)
 - Modulo 3 Fenomeni elettrici elementari ([PPSX](/assets/pptx/it_mod03_fisica_dei_fenomeni_elettrici_elementari.ppsx) 1,3 MB)
 - Modulo 4 Elementi di analisi dei segnali ([PPSX](/assets/pptx/it_mod04_analisi_segnali.ppsx) 8,8 MB)

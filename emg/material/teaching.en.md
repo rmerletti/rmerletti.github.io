@@ -11,7 +11,7 @@ ref: teaching
 - Project CoMES Final report ([PDF](/assets/pdfs/comes_rapporto_finale.pdf) 1.5 MB)
 - Commentaries about Project CoMES ([PDF](/assets/pdfs/comes_commentaries.pdf) 0.1 MB)
 - Introduction ([PDF](/assets/pptx/en_introduction_to_the_teaching_material.pdf) 0.6 MB)
-- Module 1 Basic Mechanics ([PPSX](/assets/pptx/en_mod01_basic_mechanics.ppsx) 21.4 MB)
+- Module 1 Basic Mechanics [view online](/en/emg/material/teaching/module1) ([PPSX](/assets/pptx/en_mod01_basic_mechanics.ppsx) 21.4 MB)
 - Module 2 Basic Biomecanics ([PPSX](/assets/pptx/en_mod02_basic_concepts_biomechanics.ppsx) 37.3 MB)
 - Module 3 Basic Electrical Phenomena ([PPSX](/assets/pptx/en_mod03_physics_of_elementary_electric_phenomena.ppsx) 1.4 MB)
 - Module 4 Basic Signal Analysis ([PPSX](/assets/pptx/en_mod04_signal_analysis.ppsx) 8.8 MB)
