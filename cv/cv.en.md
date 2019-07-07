@@ -29,7 +29,7 @@ ref: cv
     Dip.to di Elettronica, Politecnico di Torino<br />
     Corso Duca degli Abruzzi 24 Torino, 10129<br />
     tel. 011 090 7763 oppure   011 0904137, <br />
-    E-mail: <a href="mailto:roberto.merletti@polito.it">roberto.merletti@polito.it</a><br />
+    E-mail: <a href="mailto:roberto@robertomerletti.it">roberto@robertomerletti.it</a><br />
     URL: <a href="http://lisin.polito.it">http://lisin.polito.it</a>
   </dd>
   <dt>Last position</dt>

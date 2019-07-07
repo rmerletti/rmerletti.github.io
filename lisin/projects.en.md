@@ -38,7 +38,7 @@ ref: projects
 8.	Merletti R., Pelvic floor EMG: principles, technique and applications, Ch 7 of “Childbirth related pelvic floor dysfunctions”,  Springer, Italy, 2016.
 9.	Merletti R, Farina D. (edts) Surface Electromyography: physiology, engineering and applications,  IEEE Press / J Wiley, USA,  May 2016
 
-Further information, publications and reports about the Projects described below can be requested to [roberto.merletti@polito.it](mailto:roberto.merletti@polito.it). Additional recent material is available on [www.lisin.polito.it](https://www.lisin.polito.it). Teaching material based on these projects will soon be availble
+Further information, publications and reports about the Projects described below can be requested to [roberto@robertomerletti.it](mailto:roberto@robertomerletti.it). Additional recent material is available on [www.lisin.polito.it](https://www.lisin.polito.it). Teaching material based on these projects will soon be availble
 
 # EU Projects
 
