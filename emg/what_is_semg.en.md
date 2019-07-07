@@ -6,6 +6,8 @@ lang: en
 ref: what_semg
 ---
 
-<iframe src="https://onedrive.live.com/embed?cid=E964CF1763131888&resid=E964CF1763131888%21524&authkey=AF3rkPe_ATMTe3E&em=2" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+[Download PPSX (13.8 MB)](https://1drv.ws/p/s!AogYE2MXz2TphBHGEaiBGrcxbmib?e=58FRHu)
 
-[Download as PPSX](/assets/pptx/en_what_is_emg.ppsx)
+<div class="sixteen_nine_outer">
+    <iframe src="https://onedrive.live.com/embed?cid=E964CF1763131888&resid=E964CF1763131888%21529&authkey=AMIrfLCYsHjqd8c&em=2" width="100%" height="100%" class="aspect_ratio_inner" frameborder="0" scrolling="no"></iframe>
+</div>

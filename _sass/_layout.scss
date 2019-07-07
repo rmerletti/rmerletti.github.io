@@ -136,3 +136,24 @@ h1 {
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
   background-color: rgb(165, 165, 165);
 }
+
+.four_three_outer {
+  width: 100%;
+  padding-top: 75%; /* 4:3 Aspect Ratio */
+  position: relative; /* If you want text inside of it */
+}
+
+.sixteen_nine_outer {
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+  position: relative; /* If you want text inside of it */
+}
+
+/* If you want text inside of the container */
+.aspect_ratio_inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}

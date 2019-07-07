@@ -8,19 +8,19 @@ ref: teaching
 
 ## Controllo motorio ed elettromiografia di superficie: Il Progetto CoMES.
 
-- Rapporto finale Progetto CoMES ([PDF](/assets/pdfs/comes_rapporto_finale.pdf) 1,5 MB)
-- Valutazioni Progetto CoMES ([PDF](/assets/pdfs/comes_valutazioni.pdf) 0,1 MB)
-- Introduzione ([PDF](/assets/pptx/it_introduzione_al_materiale_didattico.pdf) 0,6 MB)
-- Modulo 1 Basi di Meccanica [vedi online](/it/emg/material/teaching/module1) ([PPSX](/assets/pptx/it_mod01_basi di meccanica.ppsx) 21,5 MB)
-- Modulo 2 Basi di Biomeccanica ([PPSX](/assets/pptx/it_mod02_concetti_di_base_di_biomeccanica.ppsx) 37,2 MB)
-- Modulo 3 Fenomeni elettrici elementari ([PPSX](/assets/pptx/it_mod03_fisica_dei_fenomeni_elettrici_elementari.ppsx) 1,3 MB)
-- Modulo 4 Elementi di analisi dei segnali ([PPSX](/assets/pptx/it_mod04_analisi_segnali.ppsx) 8,8 MB)
-- Modulo 5 Basi di elettrofisiologia e generazione del segnale sEMG ([PPSX](/assets/pptx/it_mod05_basi_di_elettrofisiologia_e_generazione_del_segnale_emg.ppsx) 4,4 MB)
-- Modulo 6 Sistemi di prelievo del segnale sEMG ([PPSX](/assets/pptx/it_mod06_sEMG_detection_systems.ppsx) 13,2 MB)
-- Modulo 7 Caratteristiche e proprietà del segnale sEMG ([PPSX](/assets/pptx/it_mod07_caratteristiche_proprieta_segnale.ppsx) 93,3 MB)
-- Modulo 8 Le raccomandazioni europee e il loro aggiornamento ([PPSX](/assets/pptx/it_mod08_raccomandazioni_europee.ppsx) 1 MB)
+- [Rapporto finale Progetto CoMES (PDF, 1,5 MB)](https://1drv.ws/b/s!AogYE2MXz2TphCMB5qE5AzuztG6X?e=bNJmne)
+- [Valutazioni Progetto CoMES (PDF 0,1 MB)](https://1drv.ws/b/s!AogYE2MXz2TphCR6nknV80IWOyJr?e=H2Pji4)
+- [Introduzione (PDF 0,6 MB)](https://1drv.ws/b/s!AogYE2MXz2TphCW08pfO7YsBxAVV?e=Vd7d45)
+- [Modulo 1 Basi di Meccanica](/it/emg/material/teaching/module1)
+- [Modulo 2 Basi di Biomeccanica](/it/emg/material/teaching/module2)
+- [Modulo 3 Fenomeni elettrici elementari](/it/emg/material/teaching/module3)
+- [Modulo 4 Elementi di analisi dei segnali](/it/emg/material/teaching/module4)
+- [Modulo 5 Basi di elettrofisiologia e generazione del segnale sEMG](/it/emg/material/teaching/module5)
+- [Modulo 6 Sistemi di prelievo del segnale sEMG](/it/emg/material/teaching/module6)
+- [Modulo 7 Caratteristiche e proprietà del segnale sEMG](/it/emg/material/teaching/module7)
+- [Modulo 8 Le raccomandazioni europee e il loro aggiornamento](/it/emg/material/teaching/module8)
 - Modulo 9 (in preparazione)
-- Modulo 10 Esempi di acquisizione e interpretazione del segnale sEMG ([PPSX](/assets/pptx/it_mod10_esempi_semg.ppsx) 64,6 MB)
+- [Modulo 10 Esempi di acquisizione e interpretazione del segnale sEMG](/it/emg/material/teaching/module10)
 
 ## Presentazioni
 
