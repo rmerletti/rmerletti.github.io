@@ -306,3 +306,11 @@ Four patents registered by Politecnico di Torino
 107. Afsharipour B, Petracca F, Gasparini M, Merletti R. Spatial distribution of surface EMG on trapezius and lumbar muscles of violin and cello players in single note playing.
 J. Electromyogr Kinesiol. 2016; 31: 144-153. 
 108. Cattarello P., Merletti R., Petracca F., Analysis of High Density Surface EMG and finger pressure in the left forearm of violin players.  Medical Problems of Performing Artists (in press)
+109. Besomi M., Hodges A., Van Dieen J., Carson RG.,  Clancy E., Disselhorst-Klug C., Holobar A. 
+Hug F.,. Kiernank M., Lowery M., McGill K., Merletti R., Perreault E., Sogaard K., Tucker K.,
+Besiert T., Enoka R., Falla D., Farina D., Gandevia S., Rothwell JC., Vicenzino B., Wrigley T.
+Consensus for experimental design in electromyography (CEDE) project:  electrode selection matrix. Journal of Electromyography and Kinesiology, 2019; 48: 128–144. [https://doi.org/10.1016/j.jelekin.2019.07.008](https://doi.org/10.1016/j.jelekin.2019.07.008)
+110. Merletti R., Muceli S., Tutorial. Surface EMG detection in space and time: best practices.
+Journ. of Electromyography and Kinesiology, 2019; 49:   
+doi.org/10.1016/j.jelekin.2019.102363
+111. Russo A., Aranceta-Garza A., D’Emanuele S., Serafino F., Merletti R., HDsEMG activity of the lumbar erector spinae in violin players: comparison of two chairs. Medical Probl. of Perform. Artists, 2019;  34(4): 205-214, doi: 10.21091/mppa.2019.4034 

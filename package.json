@@ -1,0 +1,21 @@
+{
+  "name": "rmerletti.github.io",
+  "version": "1.0.0",
+  "description": "Built with Jekyll",
+  "main": "index.js",
+  "scripts": {
+    "install": "bundle install",
+    "start": "npm run install && bundle exec jekyll serve",
+    "build": "npm run install && bundle exec jekyll build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmerletti/rmerletti.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmerletti/rmerletti.github.io/issues"
+  },
+  "homepage": "https://github.com/rmerletti/rmerletti.github.io#readme"
+}

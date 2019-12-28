@@ -191,3 +191,11 @@ Electroenc. and Clin. Neurophys., 69, pg. 568-575, 1988
 J Electromyogr Kinesiol. 2016; 31: 144-153. 
 159. Cattarello P., Merletti R. , Petracca F., Analysis of High Density Surface EMG and finger pressure in the left forearm of violin players.  Medical Problems of Performing Artists, September 2017, pg 139-151,  [https://doi.org/10.21091/mppa.2017.3023160](https://doi.org/10.21091/mppa.2017.3023160)
 160. Cattarello P., Vinelli S., D’Emanuele S., GazzoniM., Merletti R. Comparison of chairs based on HDsEMG of back muscles, biomechanical and comfort indices, for violin and viola players: A short term study. JElectromyogr Kinesiol.2018; 42: 92-103.
+161. Besomi M., Hodges A., Van Dieen J., Carson RG.,  Clancy E., Disselhorst-Klug C., Holobar A. 
+Hug F.,. Kiernank M., Lowery M., McGill K., Merletti R., Perreault E., Sogaard K., Tucker K.,
+Besiert T., Enoka R., Falla D., Farina D., Gandevia S., Rothwell JC., Vicenzino B., Wrigley T.
+Consensus for experimental design in electromyography (CEDE) project:  electrode selection matrix. Journal of Electromyography and Kinesiology, 2019; 48: 128–144. [https://doi.org/10.1016/j.jelekin.2019.07.008](https://doi.org/10.1016/j.jelekin.2019.07.008)
+162. Merletti R., Muceli S., Tutorial. Surface EMG detection in space and time: best practices.
+Journ. of Electromyography and Kinesiology, 2019; 49:   
+doi.org/10.1016/j.jelekin.2019.102363
+163. Russo A., Aranceta-Garza A., D’Emanuele S., Serafino F., Merletti R., HDsEMG activity of the lumbar erector spinae in violin players: comparison of two chairs. Medical Probl. of Perform. Artists, 2019;  34(4): 205-214, doi: 10.21091/mppa.2019.4034 
