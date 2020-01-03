@@ -181,7 +181,7 @@ Four patents registered by Politecnico di Torino
 11. **Merletti R.**, Pelvic floor EMG: principles, technique and applications, Ch 7 of “ Childbirth related pelvic floor dysfunctions”,  Springer, 2016.
 12. Merletti R, Farina D. (edts) Surface Electromyography: physiology, engineering and applications,  IEEE Press / J Wiley, USA,  May 2016
 
-### Main recent publications on peer reviewed international journals (2010-2017).
+### Main recent publications on peer reviewed international journals (2010-2020).
 
 1. Vieira T., Windhorst U., **Merletti R.**, Is the stabilization of quiet upright stance in humans driven by synchronized and similar modulations of the activity of medial and lateral gastrocnemius muscles? .J. Appl. Physiol. 2010; 108: 85-97
 2. Enck P, Franz H, Davico E, Mastrangelo F, Mesin L, **Merletti R.**,  Repeatability of Innervation Zone Identification in the External Anal Sphincter Muscle, Neurourol. and Urodynamics, 2010; 29: 449-457.

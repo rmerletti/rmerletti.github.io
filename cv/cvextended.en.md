@@ -17,8 +17,6 @@ ref: cvextended
 
 ## Prof. Roberto Merletti, Ph.D.
 
-## January 2017
-
 ### Personal data
 
 <dl class="dl-horizontal" style="clear:both">
