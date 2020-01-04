@@ -6,7 +6,16 @@ lang: en
 ref: emgbooks
 ---
 
-<img src="/assets/img/book_covers/books_graph_en.jpg">
+<h3>Why are there so many books and such  an extensive literature available on sEMG?</h3>
+
+<p>There is a huge literature about surface electromyography (sEMG) consisting in books about sEMG (about 20), chapters in non-sEMG books, review papers (about 200), encyclopedia contributions (>20), and just articles (about 7000, growing at the rate of 700/year) plus material made available on line by manufacturers of sEMG equipment (Delsys, Noraxon, Thought Technology and others). One field of sEMG application is kinesiology and  the “Journal of Electromyography and Kinesiology (JEK)” is dedicated to this field.</p>
+<p>Book contents range from elementary material to advanced signal processing. A large percentage of this material is freely downloadable and suitable for beginners or for advanced researchers. There is a continuing effort to extract the large amount of information that the sEMG signal contains about the muscle, the peripheral and the central nervous systems, about their pathophysiology and about motor control strategies.</p>
+<p>This material is fundamental for the study of movement sciences, neuro-physiology and neurorehabilitation and is indicating the rapid evolution that these sciences are undergoing, strongly conditioning the jobs of those that are students today.
+The material collected in the following is a sample of what is available.</p>
+
+<div style="text-align: center">
+    <img src="/assets/img/book_covers/books_graph_en.jpg">
+</div>
 
 <table class="table">
     <tr>
@@ -40,18 +49,6 @@ ref: emgbooks
             </ol>
         </td>
     </tr>
-    <tr>
-        <td colspan="2">
-            <div style="float: left">
-                <img src="/assets/img/book_covers/2016_SurfaceElectromyographyNova.jpg" />
-                <p>Nova Science Publishers Inc., 2016</p>
-            </div>
-            <div style="float: left; margin-left: 5px">
-                <img src="/assets/img/book_covers/2010_SurfaceElectromyography.jpg" />
-                <p>Jones &amp; Bartlett Learning, 2010</p>
-            </div>
-        </td>
-    </tr>
     <tr style="clear: left">
         <td class="booksImageContainer">
             <img src="/assets/img/book_covers/2012_AtlasOfMuscleInnervationZones.jpg" />
@@ -76,6 +73,266 @@ ref: emgbooks
                 <li>Upper limb, 16 muscles</li>
                 <li>Lower limb, 13 muscles</li>
             </ol>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <div style="float: left">
+                <img src="/assets/img/book_covers/2016_SurfaceElectromyographyNova.jpg" />
+                <p>Nova Science Publishers Inc., 2016</p>
+            </div>
+            <div style="float: left; margin-left: 5px">
+                <img src="/assets/img/book_covers/2010_SurfaceElectromyography.jpg" />
+                <p>Jones &amp; Bartlett Learning, 2010</p>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2012_EMG_Methods.jpg" /><br />
+            <strong>
+                Edited by Mark Schwartz  Pub.: January 2012   
+                DOI: 10.5772/1465   ISBN: 978-953-307-793-2
+                <a href="https://www.intechopen.com/books/">https://www.intechopen.com/books/</a>
+            </strong>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>A Critical Review and Proposed Improvement in the Assessment of Muscle Interactions Using Surface EMG</li>
+                <li>Location of Electrodes in Surface EMG</li>
+                <li>The Relationship Between EMG and Muscle Force</li>
+                <li>Electromyography in Myofascial Syndrome</li>
+                <li>Clinical Implications of Muscle-Tendon & -Force Interplay</li>
+                <li>Nonlinear Analysis for Evaluation of Age-Related Muscle Performance Using sEMG</li>
+                <li>The Usefulness of Wavelet Transform to Reduce Noise in the SEMG Signal</li>
+                <li>Nonlinear Analysis of Surface Electromyography</li>
+                <li>sEMG Techniques to Detect and Predict Localised Muscle Fatigue</li>
+                <li>Clinical Application of Silent Period for the Evaluation of Neuro-Muscular Function in the Field of the Sports Medicine and Rehabilitation</li>
+                <li>Middle and Long Latency Auditory Evoked Potentials and Their Usage in Fibromyalgia and Schizophrenia</li>
+                <li>Non-Invasive Diagnosis of Neuromuscular Disorders by High-Spatial-Resol.-EMG</li>
+                <li>EMG vs. Thermography in Severe Carpal Tunnel Syndrome</li>
+                <li>Functional Significance of Facilitation Between the Pronator Teres and Extensor Carpi Radialis in Humans</li>
+                <li>Visual and Brainstem Auditory Evoked Potentials in Neurology</li>
+                <li>Extraction and Analysis of the Single Motor Unit F-Wave of the Median Nerve</li>
+                <li>EMG and Evoked Potentials in the Operating Room During Spinal Surgery</li>
+                <li>Combination of Transcranial Magnetic Stimulation with EMG and EEG</li>
+                <li>Muscle Force Analysis of Human Foot Based on Wearable Sensors and EMG</li>
+                <li>Affective Processing of Loved Familiar Faces: Contributions from  EMG. </li>
+                <li>Noninvasive Monitoring of Breathing and Swallowing Interaction</li>
+                <li>Man to Machine, Applications in EMG</li>
+                <li>Water Surface Electromyography</li>
+                <li>Scanning Electromyography</li>
+                <li>EMG PSD Measures in Orthodontic Appliances</li>
+                <li>New Measurement Techniques of sEMG Signals in Rest </li>
+                <li>Position for Application in the Ophthalmological Field</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2012_Computational_intelligence.jpg" /><br />
+            <strong>
+                Edited by Ganesh Naik
+                October 2012    
+                DOI: 10.5772/3315 
+                ISBN: 978-953-51-0805-4
+                <a href="https://www.intechopen.com/books/">https://www.intechopen.com/books/</a>
+            </strong>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>EMG Modeling</li>
+                <li>Modelling of Transcranial Magnetic Stimulation in One-Year Follow-Up Study of Patients with Minor Ischaemic Stroke</li>
+                <li>Relationships Between Surface Electromyography and Strength During Isometric Ramp Contractions</li>
+                <li>Comparison by EMG of Running Barefoot and   Running Shod</li>
+                <li>Influence of Different Strategies of Treatment Muscle Contraction and Relaxation Phases on EMG Signal Processing and Analysis During Cyclic Exercise</li>
+                <li>Nonlinear Analysis of Surface EMG Signals</li>
+                <li>Normalization of EMG Signals: To Normalize or Not to Normalize and What to Normalize to?</li>
+                <li>The Usefulness of Mean and Median Frequencies in Electromyography Analysis</li>
+                <li>Feature Extraction Methods for Studying Surface Electromyography and Kinematic Measurements in Parkinson’s Disease</li>
+                <li>Distinction of Abnormality of Surgical Operation on the Basis of Surface EMG Signals</li>
+                <li>EMG Decomposition and Artefact Removal</li>
+                <li>Sphincter EMG for Diagnosing Multiple System Atrophy and Related Disorders</li>
+                <li>Hand Sign Classification Employing Myoelectric Signals of Forearm</li>
+                <li>Proposal of a Neuro Fuzzy System for Myoelectric Signal Analysis from Hand-Arm Segment</li>
+                <li>Design and Control of an EMG Driven IPMC Based Artificial Muscle Finger</li>
+                <li>Application of Surface Electromyography in the Dynamics of Human Movement</li>
+                <li>Virtual and Augmented Reality: A New Approach to Aid Users of Myoelectric Prostheses</li>
+                <li>Signal Acquisition Using Surface EMG and Circuit Design Considerations for Robotic Prosthesis</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2012_Applications_of_EMG.jpg" /><br />
+            <strong>
+                Edited by Catriona Steele
+                January 2012    
+                DOI: 10.5772/2349     
+                ISBN: 978-953-307-798-7
+                <a href="https://www.intechopen.com/books/">https://www.intechopen.com/books/</a>
+            </strong>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>Evaluating the Electromyographical Signal During Symmetrical Load Lifting</li>
+                <li>EMG Analysis Methods on Robotic Gait Machines</li>
+                <li>Electromyography in the Study of Muscle Reactions to Vibration Treatment</li>
+                <li>The Role of Electromyography (EMG) in the Study of Anticipatory Postural Adjustments</li>
+                <li>Application of Surface Electromyographic Signals to Control Exoskeleton Robots</li>
+                <li>Trunk Muscle Activity Affects the Level of Performance in Human Body</li>
+                <li>EMG in People with Different Heel Height Condition</li>
+                <li>Muscle Activation Patterns During Level Walking and Stair Ambulation</li>
+                <li>Experimentation and Structural Modeling of Stimulus-Evoked Electromyography in Muscles During Electrically-Elicited Fatigue Process</li>
+                <li>Assessment of Low Back Muscle by Surface EMG</li>
+                <li>EMG Analysis of a Pilates Exercise</li>
+                <li>Electromyography Monitoring for Complete and Incomplete Transections of the Spinal Cord in Humans </li>
+                <li>EMG Applications in Studies of Arts</li>
+                <li>SEMG During Both Standing and Walking in m. Ulnaris lateralis of Diversely Trained Horses</li>
+                <li>Arthroscopic Treatment of Suprascapular Nerve Neuropathy</li>
+                <li>An Uterine EMG Activity as a Measure of Labor Progression</li>
+                <li>The Role of Pelvic and Perineal Muscles in Reproductive and Excretory Functions</li>
+                <li>EMG in Diagnosis of Functional Status of Pelvic Floor Muscles in Women with Urinary Incontinence</li>
+                <li>Electromyography as a Biofeedback Tool for the Rehabilitating of Swallowing Muscle Function</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2011_Advances_in_applied_EMG.jpg" /><br />
+            <strong>
+                Advances in Applied Electromyography
+                Edited by Joseph Mizrahi,
+                October 2011
+                DOI: 10.5772/883
+                ISBN: 978-953-307-382-8
+                <a href="https://www.intechopen.com/books/">https://www.intechopen.com/books/</a>
+            </strong>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>The Role of EMG in Resolving Musculoskeletal Interactions in Able-Bodied and Disabled Human Individuals</li>
+                <li>Electromyography Assessment of Muscle Recruitment Strategies During High-Intensity Exercise</li>
+                <li>Classification of Upper Limb Motions from Around-Shoulder Muscle Activities</li>
+                <li>Walking and Jogging: Quantification of Muscle Activity of the Lower Extremities</li>
+                <li>EMG Signal Noise Removal Using Neural Netwoks</li>
+                <li>Electromyography Pattern-Recognition-Based Control of Powered Multifunctional Upper-Limb Prostheses</li>
+                <li>Pinching Effort Evaluation Based on Tendon Force Estimation</li>
+                <li>Electromyogram of the Cibarial Pump and the Feeding Process in Hematophagous Hemiptera</li>
+                <li>Anal Sphincter Electromyogram for Dysfunction of Lower Urinary Tract and Pelvic Floor</li>
+                <li>Electromyography of Pelvic Floor Muscles in Rats</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2012_EMG_Methods2.jpg" /><br />
+            <strong>
+                Edited by Mark Schwartz
+                January 2012   
+                DOI: 10.5772/1465  
+                ISBN: 978-953-307-793-2
+                <a href="https://www.intechopen.com/books/">https://www.intechopen.com/books/</a>
+            </strong>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>A Critical Review and Proposed Improvement in the Assessment of Muscle Interactions Using sEMG</li>
+                <li>Location of Electrodes in Surface EMG</li>
+                <li>The Relationship Between Electromyography and Muscle Force</li>
+                <li>Electromyography in Myofascial Syndrome</li>
+                <li>Clinical Implications of Muscle-Tendon & Force Interplay</li>
+                <li>Nonlinear Analysis for Evaluation of Age-Related Muscle Performance Using Surface Electromyography</li>
+                <li>The Usefulness of Wavelet Transform to Reduce Noise in the SEMG Signal</li>
+                <li>Nonlinear Analysis of Surface Electromyography</li>
+                <li>sEMG Techniques to Detect and Predict Localised Muscle Fatigue</li>
+                <li>Clinical Application of Silent Period for the Evaluation of Neuro-Muscular Function in the Field of the Sports Medicine and Rehabilitation</li>
+                <li>Middle and Long Latency Auditory Evoked Potentials and Their Usage in Fibromyalgia and Schizophrenia</li>
+                <li>Non-Invasive Diagnosis of Neuromuscular Disorders by High-Spatial-Resolution-EMG</li>
+                <li>EMG vs. Thermography in Severe Carpal Tunnel Syndrome</li>
+                <li>Functional Significance of Facilitation Between the Pronator Teres and Extensor Carpi Radialis in Humans: Studies with Electromyography and Electrical Neuromuscular Stimulation</li>
+                <li>Visual and Brainstem Auditory Evoked Potentials in Neurology</li>
+                <li>Extraction and Analysis of the Single Motor Unit F-Wave of the Median Nerve</li>
+                <li>EMG and Evoked Potentials in the Operating Room During Spinal Surgery</li>
+                <li>Combination of Transcranial Magnetic Stimulation with Electromyography and Electroencephalography: Application in Diagnosis of Neuropsychiatric Disorders</li>
+                <li>Muscle Force Analysis of Human Foot Based on Wearable Sensors and EMG Method</li>
+                <li>Affective Processing of Loved Familiar Faces: Contributions from Electromyography</li>
+                <li>Noninvasive Monitoring of Breathing and Swallowing Interaction</li>
+                <li>Man to Machine, Applications in Electromyography</li>
+                <li>Water Surface Electromyography</li>
+                <li>Scanning Electromyography</li>
+                <li>EMG PSD Measures in Orthodontic Appliances</li>
+                <li>New Measurement Techniques of Surface Electromyographic Signals in Rest Position for Application in the Ophthalmological Field</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2014_Applications_challenges.jpg" /><br />
+            <strong>
+                Applications, Challenges, and Advancements 
+                In Electromyography Signal Processing
+                Editor. Ganesh Naik,  May 2014
+                University of Technology Sydney
+                DOI: 10.4018/978-1-4666-6090-8
+                ISBN-13: 978-1466660908 
+                ISBN-10: 1466660902
+            </strong>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>Neural Control of Muscle</li>
+                <li>New Advances in Single Fiber Electromyography</li>
+                <li>Detection and Conditioning of EMG</li>
+                <li>An Introduction to EMG Signal Processing Using MatLab and Microsoft Excel</li>
+                <li>Modeling the Human Elbow Joint Dynamics from sEMG</li>
+                <li>Arm Swing during Human Gait Studied by EMG of Upper Limb Muscles</li>
+                <li>Using in Vivo Subject-Specific Musculotendon Parameters to Investigate Voluntary Movement Changes after Stroke</li>
+                <li>Study and Interpretation of Neuromuscular Patterns in Golf</li>
+                <li>Assessing Joint Stability from Eigenvalues Obtained from Multi-Channel EMG: a spine example</li>
+                <li>Endurance Time Prediction using Electromyography</li>
+                <li>EMG Activation Pattern during Voluntary Bending and Donning Safety Shoes</li>
+                <li>Tongue Movement Estimation Based on Suprahyoid Muscle Activity</li>
+                <li>Design of Myocontrolled Neuroprosthesis:   Tricks and Pitfalls</li>
+                <li>Design and Development of EMG Conditioning System and Hand Gesture Recognition Based on Principal Component Analysis Feature Reduction Technique</li>
+                <li>The Relationship between Anthropometric Variables and Features of Electromyography Signal for Human–Computer Interface</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <h4>Springer books on related topics (Proc. of Int. Conf. on NeuroRehabilitation)</h4>
+            <div style="float: left">
+                <img src="/assets/img/book_covers/2012_Converging_clinical.jpg" />
+            </div>
+            <div style="float: left; margin-left: 5px">
+                <img src="/assets/img/book_covers/2016_WearableRoboticsChallengesAndTrends.jpg" />
+            </div>
+            <div style="float: left; margin-left: 5px">
+                <img src="/assets/img/book_covers/2013_EmergingTherapiesInNeurorehabilitation.jpg" />
+            </div>
+            <div style="float: left; margin-left: 5px">
+                <img src="/assets/img/book_covers/2018_ConvergingClinical.jpg" />
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/img/book_covers/2013_IntroductionToNeuralEngineeringForMotorRehabilitation.jpg" />
+            <p><strong>IEEE Press, J. Wiley, 2013</strong></p>
+        </td>
+        <td>
+            <p>Part 1. Injuries of the nervous systemc <em>(3 contributions)</em></p>
+            <p>Part 2. Signal detection and conditioning <em>(Eight contributions)</em></p>
+            <p>Part 3. Function replacement (Prostheses and orthosis) <em>(Six contributions)</em></p>
+            <p>Part 4. Function restoration <em>(Five contributions)</em></p>
+            <p>Part 5. Rehabilitation through neuromodulation <em>(Six contributions)</em></p>
         </td>
     </tr>
     <tr>
@@ -159,6 +416,69 @@ ref: emgbooks
                 <li>Appendix 4.1 EMG Area and Slope Measurement</li>
                 <li>Appendix 4.2 Cross-Correlation Function</li>
                 <li>Appendix 4.3 Calculating Fourier Coefficients</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2006_BEES.jpg" />
+        </td>
+        <td>
+            <h3>
+                Edizioni Minerva Medica Torino, 2006<br />
+                Editors: A. Rainoldi, M. A. Minetto, R. Merletti<br />
+                Fifteen contributions by 29  International Scientists
+            </h3>
+            <ol>
+                <li>
+                    Part 1. Skeletal muscle<br />
+                    Cinque contributi
+                </li>
+                <li>
+                    Part 2. Biomechanics<br />
+                    Tre contributi
+                </li>
+                <li>
+                    Part 3. Technology<br />
+                    Tre contributi
+                </li>
+                <li>
+                    Part 4. Electrical Stimulation in Sports<br />
+                    Quattro contributi
+                </li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2005_ABC_of_EMG.jpg" /><br />
+            <strong>
+                The ABC of EMG, Peter Konrad,  Noraxon, 2005
+            </strong>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>Technical considerations</li>
+                <li>Myoelectric signal parameters</li>
+                <li>New techniques</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2010_Basics_of_surface_EMG.jpg" /><br />
+            <strong>
+                Thought Technology Ltd. 2009-2010
+            </strong>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>Skeletal muscle properties</li>
+                <li>Detection of sEMG signals</li>
+                <li>The sEMG signal</li>
+                <li>Examples of use</li>
             </ol>
         </td>
     </tr>
@@ -248,15 +568,106 @@ ref: emgbooks
         </td>
     </tr>
     <tr>
-        <td colspan="2">
-            <div style="float: left">
-                <img src="/assets/img/book_covers/1998_IntroToSurfaceElectromyography.jpg" />
-                <p>Aspen Publishers, 1998</p>
-            </div>
-            <div style="float: left; margin-left: 5px">
-                <img src="/assets/img/book_covers/1998_ClinicalAppsInSurfaceElectromyography.jpg" />
-                <p>Aspen Publishers, 1998</p>
-            </div>
+        <td>
+            <img src="/assets/img/book_covers/1998_IntroToSurfaceElectromyography.jpg" />
+            <p>
+                Aspen Publishers, 1998
+                ISBN 0834207516, 9780834207516
+            </p>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>Chapter 1 Introduction</li>
+                <li>Chapter 2 Anatomy and Physiology </li>
+                <li>Chapter 3 Instrumentation</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/img/book_covers/1998_ClinicalAppsInSurfaceElectromyography.jpg" />
+            <p>
+                Aspen Publishers, 1998
+                ISBN  0834207524, 9780834207523
+            </p>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>Part 1. The basics of surface electromyography</li>
+                <li>Part 2. Surface electromyography: past, present and future</li>
+                <li>Part 3. Atlas of electrode placements</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/img/book_covers/1996_Electromyography_in_ergonomics.jpg" />
+            <p>
+                Taylor and Francis, 1996
+                ISBN 0 7484 0130 X
+            </p>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>Electromyography in ergonomics</li>
+                <li>Physiological basis and concepts of electromyography</li>
+                <li>Noise and artefacts</li>
+                <li>EMG interpretation</li>
+                <li>Muscle energetics and electromyography</li>
+                <li>EMG alterations at sustained contractions with special emphasis on applications in ergonomics</li>
+                <li>Electromyography of upper extremity muscles and ergonomic applications</li>
+                <li>EMG of neck and shoulder muscles: the relationship between muscle activity and muscle pain in occupational settings</li>
+                <li>Surface electromyographic assessment of low back pain</li>
+                <li>Applications of EMG in ergonomics: a clinical perspective</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/img/book_covers/1992_Selected_topics_in_sEMG.jpg" />
+            <p>
+                National Institute of Occupational  
+                Safety and Health
+                USA, 1992
+            </p>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>Overview of electromyography in ergonomics</li>
+                <li>Anatomic and physiologic basis for sEMG</li>
+                <li>Recording techniques</li>
+                <li>Instrumentation</li>
+                <li>Data analysis and applications: interpretation of sEMG</li>
+                <li>Functional muscle: effect on electromyographic output </li>
+                <li>Electromyography of upper extremity muscles and ergonomic applications</li>
+                <li>EMG of neck and shoulder muscles: the relationship between muscle activity and muscle pain in occupational settings</li>
+                <li>Surface electromyographic assessment of low back pain</li>
+                <li>Applications of EMG in ergonomics</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="/assets/img/book_covers/1992_Surface_EMG.jpg" />
+            <p>
+                Surface Electromyography: what’s new?   Carlo De Luca, Marco Knaflitz
+                Edizioni CLUT, Torino, Italy, 1992, 67 pages
+            </p>
+        </td>
+        <td>
+            <h4>Table of contents</h4>
+            <ol>
+                <li>Technical considerations</li>
+                <li>Myoelectric signal parameters</li>
+                <li>New techniques</li>
+            </ol>
+            <p>
+                This monography illustrates the state of the art as of 1992 and is aimed to rehabilitation engineers and life scientists with some background in  electronics and signal processing.
+            </p>
         </td>
     </tr>
     <tr>
@@ -273,59 +684,32 @@ ref: emgbooks
     </tr>
     <tr>
         <td colspan="2">
-            <h3>Books on related topics</h3>
-            <div style="float: left">
-                <img src="/assets/img/book_covers/2016_ConvergingClinicalAndEngineeringResearchOnNuerorehabilitation.jpg" />
-            </div>
-            <div style="float: left; margin-left: 5px">
-                <img src="/assets/img/book_covers/2016_WearableRoboticsChallengesAndTrends.jpg" />
-            </div>
-            <div style="float: left; margin-left: 5px">
-                <img src="/assets/img/book_covers/2013_EmergingTherapiesInNeurorehabilitation.jpg" />
-            </div>
+            <h4>De Luca C. J. Electromyography,  Encyclopedia of Medical Devices and Instrumentation, J. G Webster editr, J Wiley Publ., 98-109, 2006
+                Carlo De Luca,  Boston University, Boston, Massachusetts</h4>
+            <img src="/assets/img/book_covers/1993_The_use_of_sEMG_in_biomechanics.jpg" />
+            <img src="/assets/img/book_covers/2002_sEMG_detection_and_recording.jpg" />
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="/assets/img/book_covers/2013_IntroductionToNeuralEngineeringForMotorRehabilitation.jpg" />
-            <p><strong>IEEE  Press, J. Wiley, 2013</strong></p>
-        </td>
-        <td>
-            <p>Part 1. Injuries of the nervous systemc <em>(3 contributions)</em></p>
-            <p>Part 2. Signal detection and conditioning <em>(Eight contributions)</em></p>
-            <p>Part 3. Function replacement (Prostheses and orthosis) <em>(Six contributions)</em></p>
-            <p>Part 4. Function restoration <em>(Five contributions)</em></p>
-            <p>Part 5. Rehabilitation through neuromodulation <em>(Six contributions)</em></p>
-        </td>
-    </tr>
-    <tr>
-        <td class="booksImageContainer">
-            <img src="/assets/img/book_covers/2006_BEES.jpg" />
-        </td>
-        <td>
-            <h3>
-                Edizioni Minerva Medica Torino, 2006<br />
-                Editors: A. Rainoldi, M. A. Minetto, R. Merletti<br />
-                Fifteen contributions by 29  International scientists
-            </h3>
-            <ol>
-                <li>
-                    Part 1. Skeletal muscle<br />
-                    Five contributions
-                </li>
-                <li>
-                    Part 2. Biomechanics<br />
-                    Three contributions
-                </li>
-                <li>
-                    Part 3.  Technology<br />
-                    Three contributions
-                </li>
-                <li>
-                    Part 4. Electrical Stimulation in Sports<br />
-                    Four contributions
-                </li>
-            </ol>
+        <td colspan="2">
+            <h4>Chapters about sEMG in non-EMG books</h4>
+            <ul>
+                <li><u>A New Method for Quantitative Evaluation of Neurological Disorders based on EMG signals</u> Jongho Lee, Yasuhiro Kagamihara and Shinji Kakei Part of the book: <u>Recent Advances in Biomedical Engineering</u></li>
+                <li><u>A Review of EMG Techniques for Detection of Gait Disorders</u> Rajat Emanuel Singh, Kamran Iqbal, Gannon White and Jennifer K. Holtz Part of the book: <u>Artificial Intelligence - Applications in Medicine and Biology [Working Title]</u></li>
+                <li><u>Quantitative Analysis of Leg Movement and EMG signal in Expert Japanese Traditional Dancer</u> Woong Choi, Tadao Isaka, Hiroyuki Sekiguchi and Kozaburo Hachimura Part of the book: <u>Advances in Human-Robot Interaction</u></li>
+                <li><u>Control Systems of Bionic Limbs of the New Generation and Control Systems with EMG Signals of VR and Games and Toys</u> Natallia Ivaniuk, Zahar Ponimash, Vladimir Karimov and Valentsin Shepanskiy Part of the book: <u>Biofeedback</u></li>
+                <li><u>EMG-Controlled Prosthetic Hand with Fuzzy Logic Classification Algorithm</u> Beyda Taşar and Arif Gülten Part of the book: <u>Modern Fuzzy Control Systems and Its Applications</u></li>
+                <li><u>Recent Trends in EMG-Based Control Methods for Assistive Robots</u> R. A. R. C. Gopura, D. S. V. Bandara, J. M. P. Gunasekara and T. S. S. Jayawardane Part of the book: <u>Electrodiagnosis in New Frontiers of Clinical Research</u></li>
+                <li><u>Evoked EMG Makes Measurement of Muscle Tone Possible by Analysis of the H/M Ratio</u> Satoru Kai and Koji Nakabayashi Part of the book: <u>Electrodiagnosis in New Frontiers of Clinical Research</u></li>
+                <li><u>Age-Related Neuromuscular Adjustments Assessed by EMG</u> Adalgiso Coscrato Cardozo, Mauro Gonçalves, Camilla Zamfolini Hallal and Nise Marques Part of the book: <u>Electrodiagnosis in New Frontiers of Clinical Research</u></li>
+                <li><u>Experimental and Simulated EMG Responses in the Study of the Human Spinal Cord</u> Rinaldo André Mezzarane, Leonardo Abdala Elias, Fernando Henrique Magalhães, Vitor Martins Chaud and André Fabio Kohn Part of the book: <u>Electrodiagnosis in New Frontiers of Clinical Research</u></li>
+                <li><u>Overview of the Application of EMG Recording in the Diagnosis and Approach of Neurological Disorders</u> Yunfen Wu, María Ángeles Martínez Martínez and Pedro Orizaola Balaguer Part of the book: <u>Electrodiagnosis in New Frontiers of Clinical Research</u></li>
+                <li><u>Pelvic floor EMG: principles, technique and applications</u>, Merletti R.Ch 7 of the book <u>Childbirth-related pelvic floor dysfunctions</u></li>
+                <li><u>The electromyogram</u> Ch. 5 of the book <u>Bioelectrical signal processing in cardiac and neurological applications</u></li>
+                <li><u>Measurements of localized muscle fatigue in biceps brachii using objective and subjective measures</u>, S. Kumar, T. Amell, Y. Narayan, N. Prasad Ch, 6 of the book <u>Muscle Strength</u></li>
+                <li><u>Electromyography and muscle force</u>,  C.M. Sommerich, W. S. Marras Ch. 17 of the book <u>Muscle Strength</u></li>
+                <li><u>Myoelectric manifestations of muscle fatigue</u>, R. Merletti, D. Farina, A. RainoldiCh. 18 of the book <u>Muscle Strength</u></li>
+            </ul>
         </td>
     </tr>
 </table>
