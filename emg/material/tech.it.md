@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tecnologia degli amplificatori e degli elettrodi"
+title: "Note tecniche"
 permalink: /it/emg/material/tech/
 lang: it
 ref: tech
