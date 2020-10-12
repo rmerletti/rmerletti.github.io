@@ -2,7 +2,9 @@
 
 Built with Jekyll
 
-## Setup environment for running jekyll on windows 10 anniversary edition
+## Setup environment for running jekyll 
+
+### Windows 10 with WSL
 
 * open command prompt (Win+R then ```cmd```)
 * run ```bash```
@@ -13,6 +15,10 @@ Built with Jekyll
 * run ```sudo gem update```
 * run ```sudo gem install jekyll bundler```
 * check jekyll is installed with ```jekyll -v```
+
+### OSX with rbenv
+
+See [Jekyll site](https://jekyllrb.com/docs/installation/macos/)
 
 ## Setup on other platforms
 

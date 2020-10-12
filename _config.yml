@@ -26,6 +26,7 @@ markdown: kramdown
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -34,6 +35,8 @@ exclude:
 sass:
   sass_dir: _sass
   style: expanded
+whitelist:
+  - jekyll-redirect-from
 
 permalink: pretty
 post_dirs: false
