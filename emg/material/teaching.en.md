@@ -21,3 +21,7 @@ ref: teaching
 - [Module 8 European recommendations and their updating](/en/emg/material/teaching/module8)
 - Module 9 Modeling of sEMG (in preparation)
 - [Module 10 Examples of acquisition and interpretation of sEMG signals](/en/emg/material/teaching/module10)
+
+## Additional teaching material
+
+- [Video lectures on Basic Electricity from Prof S. Gupta, G D Goenka University, India (addendum to Module 3)](/assets/pdfs/dr_sanjeev_gupta_video_lectures.pdf)
