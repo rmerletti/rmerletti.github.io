@@ -8,9 +8,9 @@ ref: teaching
 
 ## Movement control and non invasive electromyography: Project CoMES.
 
-- [Project CoMES Final report (PDF 1.5 MB)](https://1drv.ws/b/s!AogYE2MXz2TphCMB5qE5AzuztG6X?e=bNJmne)
-- [Commentaries about Project CoMES (PDF 0.2 MB)](https://1drv.ws/b/s!AogYE2MXz2TphCbNabQCrNI88Ev5?e=TyOio1)
-- [Introduction (PDF 0.6 MB)](https://1drv.ws/b/s!AogYE2MXz2TphCdwsQ-I8G5qa5uP?e=tI28GN)
+- [Project CoMES Final report (PDF 1.5 MB)](/assets/pdfs/comes_rapporto_finale.pdf)
+- [Commentaries about Project CoMES (PDF 0.2 MB)](/assets/pdfs/comes_commentaries.pdf)
+- [Introduction (PDF 0.6 MB)](/assets/pdfs/en_introduction_to_the_teaching_material.pdf)
 - [Module 1 Basic Mechanics](/en/emg/material/teaching/module1)
 - [Module 2 Basic Biomecanics](/en/emg/material/teaching/module2)
 - [Module 3 Basic Electrical Phenomena](/en/emg/material/teaching/module3)

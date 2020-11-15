@@ -8,9 +8,9 @@ ref: teaching
 
 ## Controllo motorio ed elettromiografia di superficie: Il Progetto CoMES.
 
-- [Rapporto finale Progetto CoMES (PDF, 1,5 MB)](https://1drv.ws/b/s!AogYE2MXz2TphCMB5qE5AzuztG6X?e=bNJmne)
-- [Valutazioni Progetto CoMES (PDF 0,1 MB)](https://1drv.ws/b/s!AogYE2MXz2TphCR6nknV80IWOyJr?e=H2Pji4)
-- [Introduzione (PDF 0,6 MB)](https://1drv.ws/b/s!AogYE2MXz2TphCW08pfO7YsBxAVV?e=Vd7d45)
+- [Rapporto finale Progetto CoMES (PDF, 1,5 MB)](/assets/pdfs/comes_rapporto_finale.pdf)
+- [Valutazioni Progetto CoMES (PDF 0,1 MB)](/assets/pdfs/valutazioni.pdf)
+- [Introduzione (PDF 0,6 MB)](/assets/pdfs/it_introduzione_al_materiale_didattico.pdf)
 - [Modulo 1 Basi di Meccanica](/it/emg/material/teaching/module1)
 - [Modulo 2 Basi di Biomeccanica](/it/emg/material/teaching/module2)
 - [Modulo 3 Fenomeni elettrici elementari](/it/emg/material/teaching/module3)
