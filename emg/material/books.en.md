@@ -20,6 +20,25 @@ The material collected in the following is a sample of what is available.</p>
 <table class="table">
     <tr>
         <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2021_principi_di_elettromiografia.jpg" />
+            <br /><strong>190 pages, first textbook in Italian language.</strong>
+        </td>
+        <td>
+            <h5>Indice</h5>
+            <p>Prefazione (Roberto Merletti)</p>
+            <p>Introduzione (Mariano Serrao)</p>
+            <p>Incipit (Francesco Draicchio)</p>
+            <h5>Capitolo 1</h5>
+            <p>Dalla genesi del potenziale d’azione alla contrazione muscolare</p>
+            <h5>Capitolo 2</h5>
+            <p>Il segnale elettromiografico di superficie,tecniche di prelievo e di elaborazione</p>
+            <h5>Capitolo 3</h5>
+            <p>Indici e metodi matematici e statisticinel dominio del tempo e della frequenzaCapitolo 4Alcune applicazioni della EMGs</p>
+            <a href="https://shop.eurom.it/it/medicina/604-principi-di-elettromiografia-di-superficie-dal-potenziale-d-azione-alle-applni-nei-diversi-settori-della-med-e-dell-ing-9788860223968.html?search_query=principi+di+&results=12">Edizioni Universitarie Romane, 2021</a>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
             <img src="/assets/img/book_covers/2016_SurfaceElectromyography.jpg" />
             <br /><strong>IEEE Press, J. Wiley, 2016</strong>
         </td>
