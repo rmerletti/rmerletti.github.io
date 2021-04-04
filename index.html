@@ -20,8 +20,9 @@ ref: home
         <ul class="dropdown-menu">
           <li role="presentation"><a href="{{ site.baseurl }}/en/emg/material/books">Books and chapters in books</a></li>
           <li role="presentation"><a href="{{ site.baseurl }}/en/emg/material/teaching">Teaching modules and on-line courses</a></li>
-          <li role="presentation"><a href="{{ site.baseurl }}/en/emg/material/frontiers">Frontiers editorial project</a></li>
+          <li role="presentation"><a href="{{ site.baseurl }}/en/emg/material/frontiers">Frontiers Editorial Project in Neurology/Neurorehabilitation</a></li>
           <li role="presentation"><a href="{{ site.baseurl }}/en/emg/material/videos">Videos</a></li>
+          <li role="presentation"><a href="{{ site.baseurl }}/en/emg/material/seniam">The Europen SENIAM Project</a></li>
         </ul>
       </li>
       <li role="presentation" class="dropdown">
@@ -48,7 +49,7 @@ ref: home
       <img src="{{ site.baseurl }}/assets/img/updates.png" class="circleIcon" />
       <h2>Updates</h2>
       {% assign posts=site.posts | where:"lang", page.lang | sort: 'date' | reverse %}
-      {% for post in posts %}
+      {% for post in posts limit:6 %}
         <p>
           <small><strong>{{ post.date | date: "%Y-%m-%d" }}</strong></small>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

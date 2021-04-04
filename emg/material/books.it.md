@@ -8,18 +8,19 @@ ref: emgbooks
 
 <h3>I testi sul sEMG sono numerosi e la letteratura scientifica è molto estesa.</h3>
 
-<p>Sulla elettromiografia di superficie (sEMG) esiste una amplissima letteratura scientifica consistente in testi (circa 20), capitoli in libri su altri temi, “review papers” (circa 200), contributi a enciclopedie scientifiche (oltre 20), e articoli scientifici (circa 7000, con un tasso di crescita di 700/anno) oltre a materiale reso disponibile on-line dai produttori di apparecchiature per sEMG (Delsys, Noraxon, Thought Technology, tra gli altri). Uno dei settori di applicazione della sEMG è la chinesiologia. Di questo specifico settore si occupa il “Journal of Electromyography and Kinesiology (JEK)”.</p>
+<p>Sulla elettromiografia di superficie (sEMG) esiste una amplissima letteratura scientifica consistente in testi (circa 30), capitoli in libri su altri temi, “review papers” (circa 200), contributi a enciclopedie scientifiche (oltre 20), e articoli scientifici (circa 7000, con un tasso di crescita di 700/anno) oltre a materiale reso disponibile on-line dai produttori di apparecchiature per sEMG (Delsys, Noraxon, Thought Technology, tra gli altri). Uno dei settori di applicazione della sEMG è la chinesiologia. Di questo specifico settore si occupa il “Journal of Electromyography and Kinesiology (JEK)”.</p>
 <p>La tipologia dei testi spazia da quelli con contenuti molto elementary a quelli dedicati a tecniche avanzate di elaborazione del segnale. Alcuni testi sono dedicati ai principianti, altri agli esperti del settore. Il contenuto di numerosi testi è liberamente scaricabile dalla rete.</p>
 <p>E’ in corso uno sforzo di ricerca continuo per estrarre dal segnale sEMG la massima quantità di informazione in esso contenuta e relativa al muscolo, al sistema nervoso periferico e centrale, alle loro patologie e alle strategie di controllo motorio.</p>
 <p>Il materiale disponibile è fondamentale per lo studio delle scienze motorie , della neurofisiologia e della neuroriabilitazione. Esso predice la rapida evoluzione che queste scienze stanno avendo e il forte condizionamento che ne deriverà nei confronti dei professionisti di domani, studenti di oggi.</p>
 
-<div style="text-align: center">
+<div style="text-align: center; margin-bottom: 1em">
     <img src="/assets/img/book_covers/books_graph_it.jpg" />
 </div>
 
 <table class="table">
     <tr>
         <td class="booksImageContainer">
+            <a name="2021_principi_di_elettromiografia"></a>
             <img src="/assets/img/book_covers/2021_principi_di_elettromiografia.jpg" />
             <br /><strong>190 pagine, primo manuale in lingua italiana</strong>
         </td>

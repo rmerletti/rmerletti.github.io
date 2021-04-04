@@ -8,18 +8,19 @@ ref: emgbooks
 
 <h3>Why are there so many books and such  an extensive literature available on sEMG?</h3>
 
-<p>There is a huge literature about surface electromyography (sEMG) consisting in books about sEMG (about 20), chapters in non-sEMG books, review papers (about 200), encyclopedia contributions (>20), and just articles (about 7000, growing at the rate of 700/year) plus material made available on line by manufacturers of sEMG equipment (Delsys, Noraxon, Thought Technology and others). One field of sEMG application is kinesiology and  the “Journal of Electromyography and Kinesiology (JEK)” is dedicated to this field.</p>
+<p>There is a huge literature about surface electromyography (sEMG) consisting in books about sEMG (about 30), chapters in non-sEMG books, review papers (about 200), encyclopedia contributions (>20), and just articles (about 7000, growing at the rate of 700/year) plus material made available on line by manufacturers of sEMG equipment (Delsys, Noraxon, Thought Technology and others). One field of sEMG application is kinesiology and  the “Journal of Electromyography and Kinesiology (JEK)” is dedicated to this field.</p>
 <p>Book contents range from elementary material to advanced signal processing. A large percentage of this material is freely downloadable and suitable for beginners or for advanced researchers. There is a continuing effort to extract the large amount of information that the sEMG signal contains about the muscle, the peripheral and the central nervous systems, about their pathophysiology and about motor control strategies.</p>
 <p>This material is fundamental for the study of movement sciences, neuro-physiology and neurorehabilitation and is indicating the rapid evolution that these sciences are undergoing, strongly conditioning the jobs of those that are students today.
 The material collected in the following is a sample of what is available.</p>
 
-<div style="text-align: center">
+<div style="text-align: center; margin-bottom: 1em">
     <img src="/assets/img/book_covers/books_graph_en.jpg">
 </div>
 
 <table class="table">
     <tr>
         <td class="booksImageContainer">
+            <a name="2021_principi_di_elettromiografia"></a>
             <img src="/assets/img/book_covers/2021_principi_di_elettromiografia.jpg" />
             <br /><strong>190 pages, first textbook in Italian language.</strong>
         </td>
