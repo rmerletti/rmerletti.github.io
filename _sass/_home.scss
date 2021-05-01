@@ -6,6 +6,8 @@
   min-height: 300px;
   font-family: 'Libre Baskerville', serif;
   padding: 0.5em 0 0 1em;
+  position: relative;
+  z-index: 100;
 
   h1 {
     font-size: 3.5em;
@@ -49,6 +51,7 @@
 .homeBlocks {
   padding: 2em 0 4em 0;
   background: #d0b88c;
+  position: relative;
 
   .circleIcon {
     display: block;
