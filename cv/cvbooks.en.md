@@ -9,6 +9,35 @@ ref: cvbooks
 <table class="table">
     <tr>
         <td class="booksImageContainer">
+            <img src="/assets/img/book_covers/2021_surface_electromyography.jpg" />
+            <br /><strong><a href="https://www.frontiersin.org/research-topics/11157">Open Access E-Book</a></strong>
+        </td>
+        <td>
+            <h5><strong>Table of contents</strong></h5>
+            <ul>
+                <li>Editorial</li>
+                <li>General papers: 2 articles</li>
+                <li>Clinical applications and experiences: 7 articles</li>
+                <li>Surveys of clinical operators: 2 articles</li>
+                <li>Teaching and communications barriers: 2 articles</li>
+                <li>Occupational medicine: 2 articles</li>
+                <li>Exercise, sport physiology and kinesiology: 2 articles</li>
+            </ul>
+            <h5>Editorial team</h5>
+            <p>R Merletti, I Campanini, W Z Rymer, C Disselhorst-Klug</p>
+            <h5>Authors and reviewers</h5>
+            <ul>  
+                <li>18 contributions from 80 authors from seven countries:<br />Chile, Germany, Croatia, France, Ireland, Italy, USA.</li>
+                <li>33 engineers</li>
+                <li>16 medical doctors</li>
+                <li>18 occupational therapists and physiotherapists</li>
+                <li>13 movement scientists</li>
+                <li>40 reviewers from various countries</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td class="booksImageContainer">
             <img src="/assets/img/book_covers/2016_SurfaceElectromyography.jpg" />
             <br /><strong>IEEE Press, J. Wiley, 2016</strong>
         </td>

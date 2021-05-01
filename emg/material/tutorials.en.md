@@ -13,7 +13,7 @@ International Society for Electromyography and Kinesiology (ISEK)
 
 Tutorial. Surface EMG detection in space and time: Best practices.
 R. Merletti, S. Muceli,  J. of Electromyography and Kinesiology 49 (2019) 102363 -
-[doi](https://doi.org/10.1016/j.jelekin.2019.102363) - [pdf]()
+[doi](https://doi.org/10.1016/j.jelekin.2019.102363) - [pdf](/assets/pdfs/tutorial_1_JEK_sEMG_detection.pdf)
 
 ---
 
@@ -32,5 +32,6 @@ J. of Electromyography and Kinesiology 53 (2020) 102426 -
 
 Consensus for experimental design in electromyography (CEDE) project:
 Electrode selection matrix.
-M. Besomi et al., Journal of Electromyography and Kinesiology 2019; 48: 128-144
-[doi](https://doi.org/10.1016/j.jelekin.2019.07.008)
+M. Besomi, P. Hodges, J. Van Dieen, R. Carson, E.  Clancy, C. Disselhorst-Klug, A. Holobar, F. Hug, M. Kiernan,  M. Lowery, K. McGill, R. Merletti, E. Perreault, K. Sogaard, K. Tucker, T. Besier, R. Enoka, D. Falla, D. Farina, S. Gandevia, J. Rothwell, B. Vicenzino, T. Wrigley
+Journal of Electromyography and Kinesiology 2019; 48: 128-144
+[doi](https://doi.org/10.1016/j.jelekin.2019.07.008) [pdf](/assets/pdfs/tutorial_CEDE_electrodes.pdf)

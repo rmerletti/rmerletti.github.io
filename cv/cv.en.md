@@ -30,7 +30,7 @@ ref: cv
     Corso Duca degli Abruzzi 24 Torino, 10129<br />
     tel. 011 090 7763 oppure   011 0904137, <br />
     E-mail: <a href="mailto:roberto@robertomerletti.it">roberto@robertomerletti.it</a><br />
-    URL: <a href="http://lisin.polito.it">http://lisin.polito.it</a>
+    URL: <a href="https://www.robertomerletti.it">https://www.robertomerletti.it</a>
   </dd>
   <dt>Last position</dt>
   <dd>Full Professor  of Biomedical Engineering at the Dept. of Electronics, Politecnico di Torino, Italy (retired Nov 2015).<br/>
@@ -230,4 +230,10 @@ Consensus for experimental design in electromyography (CEDE) project:  electrode
 40. Merletti R., Muceli S., Tutorial. Surface EMG detection in space and time: best practices.
 Journ. of Electromyography and Kinesiology, 2019; 49:   
 doi.org/10.1016/j.jelekin.2019.102363
-41. Russo A., Aranceta-Garza A., D’Emanuele S., Serafino F., Merletti R., HDsEMG activity of the lumbar erector spinae in violin players: comparison of two chairs. Medical Probl. of Perform. Artists, 2019;  34(4): 205-214, doi: 10.21091/mppa.2019.4034 
+41. Russo A., Aranceta-Garza A., D’Emanuele S., Serafino F., Merletti R., HDsEMG activity of the lumbar erector spinae in violin players: comparison of two chairs. Medical Probl. of Perform. Artists, 2019;  34(4): 205-214, doi: 10.21091/mppa.2019.4034
+42. Merletti R., Cerone G.L. Tutorial. Surface EMG detection, conditioning and pre-processing: best  practices, Journ. of Electromyogr. and Kinesiol., 2020; 54 102440, doi:10.1016/j.jelekin.2020.102440
+43. Besomi M, Hodges P., et al. Consensus for experimental design in electromyography (CEDE) project: Amplitude normalization matrix.  Journ. of Electromyogr. and Kinesiol.., 2020; 53:102438. 
+doi: 10.1016/j.jelekin.2020.102438. 
+44. Campanini I., Disselhorst-Klug C., Rymer W.Z., Merletti R., Surface EMG in Clinical Assessment and Neurorehabilitation: barriers limiting its use. Frontiers in Neurology/Neurorehabilitation, Project 11157 , 2020, doi: 10.3389/fneur.2020.00934
+45. Khorrami Chokami A., Gasparini M., Merletti R.  Identification of periodic bursts in surface EMG: applications to the erector spinae muscles of sitting violin players. Biomed. Signal Proc. and Control 2021; 65: 102369.  [doi](https://doi.org/10.1016/j.bspc.2020.102369)
+46. Merlo, A., Montecchi, M.G., Lombardi, F., Vata, X., Musi, A., Lusuardi, M., Merletti, R.; Campanini  I. Monitoring involuntary muscle activity in acute patients with upper motor neuron lesion by wearable sensors. A feasibility study. Sensors 2021, 20, (in press).

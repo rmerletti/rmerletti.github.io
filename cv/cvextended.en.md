@@ -29,7 +29,7 @@ ref: cvextended
     Corso Duca degli Abruzzi 24 Torino, 10129<br />
     tel. 011 090 7763 oppure   011 0904137, <br />
     E-mail: <a href="mailto:roberto@robertomerletti.it">mailto:roberto@robertomerletti.it</a><br />
-    URL: <a href="http://lisin.polito.it">http://lisin.polito.it</a>
+    URL: <a href="https://www.robertomerletti.it">https://www.robertomerletti.it</a>
   </dd>
   <dt>Last position</dt>
   <dd>Full Professor  of Biomedical Engineering at the Dept. of Electronics, Politecnico di Torino, Italy (retired Nov 2015).<br />
@@ -189,9 +189,11 @@ Four patents registered by Politecnico di Torino
 6. Merletti R., Medicina del lavoro: valutazioni tramite EMG di superficie. In “Bioingegneria della postura e del movimento” Cappello A., Cappozzo A., di Prampero P.E. (Eds.), Patron Editore (Pub.), pp. 495-510, 2003
 7. Merletti R., Marchetti M., Contardo V., Veronica M., Applicazioni dell'EMG di superficie in riabilitazione sportiva, cap. 4.7 del testo "La Spalla e lo Sport", Masson, 
 8. Merletti R., Parker P.A. (edts.), Electromyography: Physiology, engineering and non invasive applications, IEEE Press / J Wiley, USA, 2004
-9. Barbero R., Rainoldi A, Merletti R. Atlas of muscle innervation zones: understanding surface EMG and its applications, Springer, Italy 2012
-10. Merletti R, Farina D. (edts) Surface Electromyography: physiology, engineering and applications, IEEE Press / J Wiley, USA,  May 2016.
-11. Merletti R., Pelvic floor EMG: principles, technique and applications, Ch 7 of “ Childbirth related pelvic floor dysfunctions”,  Springer 2016.
+9. Rainoldi A., Minetto M., **Merletti R.** (edtrs),  Biomedical Engineering in exercise and sports
+    Edizioni Minerva Medica, Torino 2006, Italy
+10. Barbero R., Rainoldi A, Merletti R. Atlas of muscle innervation zones: understanding surface EMG and its applications, Springer, Italy 2012
+11. Merletti R, Farina D. (edts) Surface Electromyography: physiology, engineering and applications, IEEE Press / J Wiley, USA,  May 2016.
+12. Merletti R., Pelvic floor EMG: principles, technique and applications, Ch 7 of “ Childbirth related pelvic floor dysfunctions”,  Springer 2016.
 
 ### Publications in peer-reviewed Journals  (2003-2016)
 
@@ -312,3 +314,9 @@ Consensus for experimental design in electromyography (CEDE) project:  electrode
 Journ. of Electromyography and Kinesiology, 2019; 49:   
 doi.org/10.1016/j.jelekin.2019.102363
 111. Russo A., Aranceta-Garza A., D’Emanuele S., Serafino F., Merletti R., HDsEMG activity of the lumbar erector spinae in violin players: comparison of two chairs. Medical Probl. of Perform. Artists, 2019;  34(4): 205-214, doi: 10.21091/mppa.2019.4034 
+112. Merletti R., Cerone G.L. Tutorial. Surface EMG detection, conditioning and pre-processing: best  practices, Journ. of Electromyogr. and Kinesiol., 2020; 54 102440, doi:10.1016/j.jelekin.2020.102440
+113. Besomi M, Hodges P., et al. Consensus for experimental design in electromyography (CEDE) project: Amplitude normalization matrix.  Journ. of Electromyogr. and Kinesiol.., 2020; 53:102438. 
+doi: 10.1016/j.jelekin.2020.102438. 
+114. Campanini I., Disselhorst-Klug C., Rymer W.Z., Merletti R., Surface EMG in Clinical Assessment and Neurorehabilitation: barriers limiting its use. Frontiers in Neurology/Neurorehabilitation, Project 11157 , 2020, doi: 10.3389/fneur.2020.00934
+115. Khorrami Chokami A., Gasparini M., Merletti R.  Identification of periodic bursts in surface EMG: applications to the erector spinae muscles of sitting violin players. Biomed. Signal Proc. and Control 2021; 65: 102369.  [doi](https://doi.org/10.1016/j.bspc.2020.102369)
+116. Merlo, A., Montecchi, M.G., Lombardi, F., Vata, X., Musi, A., Lusuardi, M., Merletti, R.; Campanini  I. Monitoring involuntary muscle activity in acute patients with upper motor neuron lesion by wearable sensors. A feasibility study. Sensors 2021, 20, (in press).
