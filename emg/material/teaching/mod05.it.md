@@ -6,7 +6,7 @@ lang: it
 ref: teaching-mod05
 ---
 
-[Download PPSX (4,2 MB)](https://1drv.ws/p/s!AogYE2MXz2TphBu-F0-uSrMFyRDH?e=FKNaXl)
+[Download PPSX (4,2 MB)](https://onedrive.live.com/download?cid=E964CF1763131888&resid=E964CF1763131888%21539&authkey=AP4SelA9tl0OuEM&em=2)
 
 <div class="sixteen_nine_outer">
     <iframe src="https://onedrive.live.com/embed?cid=E964CF1763131888&resid=E964CF1763131888%21539&authkey=AP4SelA9tl0OuEM&em=2" width="100%" height="100%" class="aspect_ratio_inner" frameborder="0" scrolling="no"></iframe>
