@@ -12,7 +12,7 @@ ref: frontiers
 
 [https://www.frontiersin.org/research-topics/11157](https://www.frontiersin.org/research-topics/11157)
 
-**All articles and the e-book (in preparation) are open access and free.**
+**All articles and the e-book are open access and free.**
 
 **Editorial Team:**
 

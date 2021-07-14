@@ -12,7 +12,7 @@ ref: frontiers
 
 [https://www.frontiersin.org/research-topics/11157](https://www.frontiersin.org/research-topics/11157)
 
-**Tutti gli articoli e l’e-book (in preparazione) sono accessibili e scaricabili gratuitamente.**
+**Tutti gli articoli e l’e-book sono accessibili e scaricabili gratuitamente.**
 
 **Coordinatori del Progetto:**
 
