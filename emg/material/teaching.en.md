@@ -19,7 +19,7 @@ ref: teaching
 - [Module 6 sEMG Detection Systems](/en/emg/material/teaching/module6)
 - [Module 7 Features and properties of the surface EMG signal](/en/emg/material/teaching/module7)
 - [Module 8 European recommendations and their updating](/en/emg/material/teaching/module8)
-- Module 9 Modeling of sEMG (in preparation)
+- [Module 9 Modeling of sEMG](/en/emg/material/teaching/module9)
 - [Module 10 Examples of acquisition and interpretation of sEMG signals](/en/emg/material/teaching/module10)
 
 ## Additional teaching material

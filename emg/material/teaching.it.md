@@ -19,7 +19,7 @@ ref: teaching
 - [Modulo 6 Sistemi di prelievo del segnale sEMG](/it/emg/material/teaching/module6)
 - [Modulo 7 Caratteristiche e proprietà del segnale sEMG](/it/emg/material/teaching/module7)
 - [Modulo 8 Le raccomandazioni europee e il loro aggiornamento](/it/emg/material/teaching/module8)
-- Modulo 9 (in preparazione)
+- [Modulo 9 Modelli del sEMG](/it/emg/material/teaching/module9)
 - [Modulo 10 Esempi di acquisizione e interpretazione del segnale sEMG](/it/emg/material/teaching/module10)
 
 ## Presentazioni
