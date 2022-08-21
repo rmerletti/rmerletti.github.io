@@ -6,8 +6,8 @@ lang: en
 ref: teaching-mod08
 ---
 
-[Download PPTX (0.8 MB)](https://onedrive.live.com/redir?resid=E964CF1763131888!758&authkey=!AJVDpg2e6REFmB0&ithint=file%2cpptx&e=j5Z5Hg)
-
 <div class="sixteen_nine_outer">
-    <iframe src="https://onedrive.live.com/embed?cid=E964CF1763131888&resid=E964CF1763131888%21758&authkey=AAZqbVIZ5Jl8SaA&em=2" width="100%" height="100%" class="aspect_ratio_inner" frameborder="0" scrolling="no"></iframe>
+    <iframe src="https://onedrive.live.com/embed?cid=E964CF1763131888&resid=E964CF1763131888%21779&authkey=AGGiRBBk1G4Rus4&em=2" width="100%" height="100%" class="aspect_ratio_inner" frameborder="0" scrolling="no"></iframe>
 </div>
+
+<p>Download the module by clicking the menu icon in the lower right corner.</p>
