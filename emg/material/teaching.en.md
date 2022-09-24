@@ -10,7 +10,7 @@ ref: teaching
 
 - [Project CoMES Final report (PDF 1.5 MB)](/assets/pdfs/comes_rapporto_finale.pdf)
 - [Commentaries about Project CoMES (PDF 0.2 MB)](/assets/pdfs/comes_commentaries.pdf)
-- [Introduction (PDF 0.6 MB)](/assets/pdfs/en_introduction_to_the_teaching_material.pdf)
+- [Introduction (PDF 4.6 MB)](https://1drv.ms/b/s!AogYE2MXz2TphhWuTvLTkcEXZUB3?e=3TzhU7)
 - [Module 1 Basic Mechanics](/en/emg/material/teaching/module1)
 - [Module 2 Basic Biomechanics](/en/emg/material/teaching/module2)
 - [Module 3 Basic Electrical Phenomena](/en/emg/material/teaching/module3)
