@@ -4,21 +4,33 @@
 <script src="{{ site.path }}{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
 <script src="{{ site.path }}{{ site.baseurl }}/assets/js/rm.js"></script>
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S3S7VK9QW7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-S3S7VK9QW7');
+</script>
+
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
   _paq.push(["setDomains", ["*.www.robertomerletti.it"]]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//stats.fm.to.it/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
+  (function () {
+    var u = "//stats.fm.to.it/";
+    _paq.push(['setTrackerUrl', u + 'piwik.php']);
     _paq.push(['setSiteId', '21']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+    g.type = 'text/javascript'; g.async = true; g.defer = true; g.src = u + 'piwik.js'; s.parentNode.insertBefore(g, s);
   })();
 </script>
-<noscript><p><img src="//stats.fm.to.it/piwik.php?idsite=21" style="border:0;" alt="" /></p></noscript>
+<noscript>
+  <p><img src="//stats.fm.to.it/piwik.php?idsite=21" style="border:0;" alt="" /></p>
+</noscript>
 <!-- End Piwik Code -->
 <noscript>
   <!-- Piwik Image Tracker-->
