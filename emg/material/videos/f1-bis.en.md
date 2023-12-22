@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Gastrocnemius muscle during quiet standing. "
+permalink: /en/emg/material/videos/f1bis/
+lang: en
+ref: emgvideosf1bis
+---
+
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=cMBNdZnjNkk&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Instantaneous surface distribution of the sEMG signal of the medial and lateral gastrocnemius muscle during quiet standing.  Differently from the trapezius muscle (Video1) the gastrocnemius is pinnate in the depth direction and most of the sEMG is due to the end-of-fiber effect at the superficial aponeurosis. No propagating motor unit action potentials are detected. See also Video 4 for a different (3D) representation.
