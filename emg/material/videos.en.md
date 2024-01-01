@@ -12,7 +12,7 @@ Some movies show the instantaneous distribution of electric voltage (detected at
 
 ## List of videos
 
-1. [Upper/middle trapezius muscle: instantaneous signal. Slight shoulder elevation. ](/en/emg/material/videos/f1/)
+1. [Upper/middle trapezius muscle: instantaneous signal. Slight shoulder elevation. ](/en/emg/material/videos/f1/)   
 2. [Vastus medialis muscle: instantaneous signal. Slight extension of the leg](/en/emg/material/videos/f2/)
 3. [Tibialis anterior muscle: instantaneous signals. Slight dorsiflexion of the foot](/en/emg/material/videos/f3/)
 4. [Medial and lateral gastrocnemius muscle: instantaneous signal. Quiet standing](/en/emg/material/videos/f4/)
@@ -36,3 +36,4 @@ Some movies show the instantaneous distribution of electric voltage (detected at
 22. [Activity of the back muscles during rowing](/en/emg/material/videos/f22/)
 23. [Pre-recorded sounds controlled by muscle activity](/en/emg/material/videos/f23/)
 24. [Rehabilitation Robotics Demo](/en/emg/material/videos/f24/)
+25. [Gastrocnemius muscle during quiet standing ](/en/emg/material/videos/f25/)

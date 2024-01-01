@@ -36,3 +36,4 @@ Alcuni filmati mostrano  la distribuzione  istantanea di tensione (rilevata a 20
 22. [Attivazione dei muscoli del dorso in un vogatore](/it/emg/material/videos/f22/)
 23. [Suoni preregistrati e controllati dalla attivita’ muscolare.](/it/emg/material/videos/f23/)
 24. [Riabilitazione Robotica](/it/emg/material/videos/f24/)
+25. [Muscolo gastrocnemio : segnale istantaneo. Stazione eretta. ](/it/emg/material/videos/f25/)
