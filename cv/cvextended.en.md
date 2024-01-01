@@ -6,6 +6,8 @@ lang: en
 ref: cvextended
 ---
 
+#### March 2023
+
 <div style="float:right; clear: right; margin-top: 1em">
     <img src="/assets/img/cv_photo.jpg" style="height: 14em">
     <h4>
@@ -148,13 +150,15 @@ Senior Member of The Institute of Electrical and Electronic Engineers (IEEE)
 
 Fellow of the Intern. Society for electromyography and kinesiology (ISEK)
 
+Corresponding Member of the Slovenian Academy of Sciences and Arts (SASA)
+
 ### Summary of publications
 
 <table class="table table-condensed">
   <tr><td>Books</td>                                <td>4</td></tr>
   <tr><td>Chapters in international books</td>      <td>5</td></tr>
   <tr><td>Chapters in national books</td>           <td>7</td></tr>
-  <tr><td>Publications in peer-reviewed international journals</td><td>&gt;150</td></tr>
+  <tr><td>Publications in peer-reviewed international journals</td><td>&gt;180</td></tr>
   <tr><td>Publications on National Journals</td>      <td>30</td></tr>
   <tr><td>Publications in Proceedings of Intern. Congresses</td><td>&gt;150</td></tr>
   <tr><td>Publications in Proceedings of National. Congresses</td><td>20</td></tr>
@@ -194,8 +198,10 @@ Four patents registered by Politecnico di Torino
 10. Barbero R., Rainoldi A, Merletti R. Atlas of muscle innervation zones: understanding surface EMG and its applications, Springer, Italy 2012
 11. Merletti R, Farina D. (edts) Surface Electromyography: physiology, engineering and applications, IEEE Press / J Wiley, USA,  May 2016.
 12. Merletti R., Pelvic floor EMG: principles, technique and applications, Ch 7 of “ Childbirth related pelvic floor dysfunctions”,  Springer 2016.
+13. Merletti R., Campanini I., Rymer W.Z., Disselhorst-Klug C., (editors), Surface electromyography: barriers limiting widespread use of sEMG in clinical assessment and neurorehabilitation. Open Access E-book. Frontiers in neurology/Neurorehabilitation, doi: 10.3389/978-2-88966-616-4
 
-### Publications in peer-reviewed Journals  (2003-2016)
+
+### Publications in peer-reviewed Journals  (2003-2022)
 
 1. Falla D., Rainoldi A., Merletti R., Jull G. Myoelectric manifestations of sternocleidomastoid and anterior scalene muscle fatigue in chronic neck pain patients Clinical Neurophysiology, 114: 488-495, 2003
 2. Falla D., Jull G., Dall’Alba P., Rainoldi A., Merletti R., An electromyographic analysis of the deep cervical flexor muscles in performance of craniocervical flexion, Physical Therapy, 83, 10: 899-906, 2003
@@ -289,7 +295,7 @@ Four patents registered by Politecnico di Torino
 90. Watanabe K, Kouzaki M, Merletti R, Fujibayashi M, Moritani T. Spatial EMG potential distribution pattern of vastus lateralis muscle during isometric knee extension in young and elderly men. J. Electromyogr. Kinesiol. 2012;22:74-9.
 91. Bonfiglioli R, Botter A, Calabrese M, Mussoni P, Violante FS, Merletti R. Surface electromyography features in manual workers affected by carpal tunnel syndrome. Muscle Nerve. 2012;45:873-82.
 92. Barone U, Merletti R. Design of a portable, intrinsically safe multichannel acquisition system for high-resolution, real-time processing HD-sEMG. IEEE Trans Biomed Eng. 2013;60:2242-52.
-93. Baudry S, Lanfranco F, Merletti R, Duchateau J, Minetto MA. Effects of Short-Term Dexamethasone Administration on Corticospinal Excitability. Med Sci Sports Exerc. 2013 Sep 18. [Epub ahead of print]
+93. Baudry S, Lanfranco F, Merletti R, Duchateau J, Minetto MA. Effects of Short-Term Dexamethasone Administration on Corticospinal Excitability. Med Sci Sports Exerc. 2014; 46(4):695-701.  doi: 10.1249/MSS.0000000000000162.
 94. Botter A, Vieira TM, Loram ID, Merletti R, Hodson-Tole EF. A novel system of electrodes transparent to ultrasound for simultaneous detection of myoelectric activity and B-mode ultrasound images of skeletal muscles. J Appl Physiol. 2013;115:1203-14.
 95. Gallina A, Merletti R, Gazzoni M. Uneven spatial distribution of surface EMG: what does it mean? Eur J Appl Physiol. 2013;113:887-94. 
 96. Gallina A, Ritzel CH, Merletti R, Vieira TM. Do surface electromyograms provide physiological estimates of conduction velocity from the medial gastrocnemius muscle? J Electromyogr Kinesiol. 2013;23:319-25.
@@ -303,20 +309,24 @@ Four patents registered by Politecnico di Torino
 104. Ullah K, Cescon C, Afsharipour B, Merletti R. Automatic detection of motor unit innervation zones of the external anal sphincter by multichannel surface EMG. J Electromyogr Kinesiol. 2014;6:860-867.
 105. Li X, Holobar A, Gazzoni M, Merletti R, Rymer W, Zhou P. Examination of Post-stroke Alteration in Motor Unit Firing Behavior Using High Density Surface EMG Decomposition. IEEE Trans Biomed Eng. 2015;62:1242-1252. 
 106. Afsharipour B.,  Ullah K.,  Merletti R.  Amplitude indicators and spatial aliasing in high density surface electromyography recordings, Biomed. Signal Proc. and Control, 2015; 22: 170-179.
-107. Afsharipour B, Petracca F, Gasparini M, Merletti R. Spatial distribution of surface EMG on trapezius and lumbar muscles of violin and cello players in single note playing.
-J. Electromyogr Kinesiol. 2016; 31: 144-153. 
-108. Cattarello P., Merletti R., Petracca F., Analysis of High Density Surface EMG and finger pressure in the left forearm of violin players.  Medical Problems of Performing Artists (in press)
-109. Besomi M., Hodges A., Van Dieen J., Carson RG.,  Clancy E., Disselhorst-Klug C., Holobar A. 
-Hug F.,. Kiernank M., Lowery M., McGill K., Merletti R., Perreault E., Sogaard K., Tucker K.,
-Besiert T., Enoka R., Falla D., Farina D., Gandevia S., Rothwell JC., Vicenzino B., Wrigley T.
-Consensus for experimental design in electromyography (CEDE) project:  electrode selection matrix. Journal of Electromyography and Kinesiology, 2019; 48: 128–144. [https://doi.org/10.1016/j.jelekin.2019.07.008](https://doi.org/10.1016/j.jelekin.2019.07.008)
-110. Merletti R., Muceli S., Tutorial. Surface EMG detection in space and time: best practices.
-Journ. of Electromyography and Kinesiology, 2019; 49:   
-doi.org/10.1016/j.jelekin.2019.102363
-111. Russo A., Aranceta-Garza A., D’Emanuele S., Serafino F., Merletti R., HDsEMG activity of the lumbar erector spinae in violin players: comparison of two chairs. Medical Probl. of Perform. Artists, 2019;  34(4): 205-214, doi: 10.21091/mppa.2019.4034 
-112. Merletti R., Cerone G.L. Tutorial. Surface EMG detection, conditioning and pre-processing: best  practices, Journ. of Electromyogr. and Kinesiol., 2020; 54 102440, doi:10.1016/j.jelekin.2020.102440
-113. Besomi M, Hodges P., et al. Consensus for experimental design in electromyography (CEDE) project: Amplitude normalization matrix.  Journ. of Electromyogr. and Kinesiol.., 2020; 53:102438. 
-doi: 10.1016/j.jelekin.2020.102438. 
-114. Campanini I., Disselhorst-Klug C., Rymer W.Z., Merletti R., Surface EMG in Clinical Assessment and Neurorehabilitation: barriers limiting its use. Frontiers in Neurology/Neurorehabilitation, Project 11157 , 2020, doi: 10.3389/fneur.2020.00934
-115. Khorrami Chokami A., Gasparini M., Merletti R.  Identification of periodic bursts in surface EMG: applications to the erector spinae muscles of sitting violin players. Biomed. Signal Proc. and Control 2021; 65: 102369.  [doi](https://doi.org/10.1016/j.bspc.2020.102369)
-116. Merlo, A., Montecchi, M.G., Lombardi, F., Vata, X., Musi, A., Lusuardi, M., Merletti, R.; Campanini  I. Monitoring involuntary muscle activity in acute patients with upper motor neuron lesion by wearable sensors. A feasibility study. Sensors 2021, 20, (in press).
+107. Afsharipour B, Petracca F, Gasparini M, Merletti R. Spatial distribution of surface EMG on trapezius and lumbar muscles of violin and cello players in single note playing. J. Electromyogr Kinesiol. 2016; 31: 144-153. 
+108. Cattarello P., Merletti R., Petracca F., Analysis of High Density Surface EMG and finger pressure in the left forearm of violin players.  Medical Problems of Performing Artists, September 2017, pg 139-151,  https://doi.org/10.21091/mppa.2017.3023
+109. Cattarello P., Vinelli S., D’Emanuele S., Gazzoni M., Merletti R., Comparison of chairs based on HDsEMG of back muscles, biomechanical and comfort indices, for violin and viola players: A short term study. J Electromyogr Kinesiol. 2018; 42: 92-103.
+110. Afsharipour B., Soedirdjo S., R. Merletti, Two-dimensional surface EMG: The effects of electrode size,interelectrode distance and image truncation. Biomedical Signal Processing and Control, 2019; 49: 298–307
+111. Besomi M., Hodges A., Van Dieen J., et al. Consensus for experimental design in electromyography (CEDE) project:  electrode selection matrix. Journal of Electromyography and Kinesiology, 2019; 48: 128–144. [https://doi.org/10.1016/j.jelekin.2019.07.008](https://doi.org/10.1016/j.jelekin.2019.07.008)
+112. Merletti R., Muceli S., Tutorial. Surface EMG detection in space and time: best practices. Journ. of Electromyography and Kinesiology, 2019; 49: doi.org/10.1016/j.jelekin.2019.102363
+113. Russo A., Aranceta-Garza A., D’Emanuele S., Serafino F., Merletti R., HDsEMG activity of the lumbar erector spinae in violin players: comparison of two chairs. Medical Probl. of Perform. Artists, 2019;  34(4): 205-214, doi: 10.21091/mppa.2019.4034 
+114. Merletti R., Cerone G.L. Tutorial. Surface EMG detection, conditioning and pre-processing: best  practices, Journ. of Electromyogr. and Kinesiol., 2020; 54 102440, doi:10.1016/j.jelekin.2020.102440
+115. Besomi M, Hodges P., et al. Consensus for experimental design in electromyography (CEDE) project: Amplitude normalization matrix.  Journ. of Electromyogr. and Kinesiol.., 2020; 53:102438. doi: 10.1016/j.jelekin.2020.102438. 
+116. Campanini I., Disselhorst-Klug C., Rymer W.Z., Merletti R., Surface EMG in Clinical Assessment and Neurorehabilitation: barriers limiting its use. Frontiers in Neurology/Neurorehabilitation, Project 11157 , 2020, doi: 10.3389/fneur.2020.00934
+117. McManus L., Lowery M., Merletti R. et al.,  Consensus for experimental design in electromyography (CEDE) project: Terminology matrix. Journ. Electromyogr Kinesiol. 2021;59 , 102565,  doi: 10.1016/j.jelekin.2021.102565.
+118. Khorrami Chokami A., Gasparini M., Merletti R.  Identification of periodic bursts in surface EMG: applications to the erector spinae muscles of sitting violin players. Biomed. Signal Proc. and Control 2021; 65: 102369.  [doi](https://doi.org/10.1016/j.bspc.2020.102369)
+119. Aranceta-Garza A. , Russo A., D’Emanuele S.,Serafino F., Merletti R., High density surface electromyographic activity of the lumbar erector spinae muscles and confort/discomfort assessment in piano players: comparison of two chairs. Frontiers in Physiology 12:743730, 
+doi: 10.3389/fphys.2021.743730
+120. Merlo A., Montecchi M.G., Lombardi,F., Vata, X., Musi A., Lusuardi M., Merletti,R., Campanini I. Monitoring involuntary muscle activity in acute patients with upper motor neuron lesion by wearable sensors. A feasibility study. Sensors, 202;21(9):3120.  doi: 10.3390/s21093120.
+121. Merletti R., Campanini I., Rymer W.Z., Disselhorst-Klug C., Editorial: Surface Electromyography: Barriers Limiting Widespread Use of sEMG in Clinical Assessment and Neurorehabilitation, Front. Neurol.,/Neurorehab. 2021,  https://doi.org/10.3389/fneur.2021.642257
+122. Gallina A, Disselhorst-Klug C, Farina D, Merletti R, et al.. Consensus for experimental design in electromyography (CEDE) project: High-density surface electromyography matrix.  Journ. Electromyogr.  Kinesiol. 2022;64:102656. doi: 10.1016/j.jelekin.2022.102656. 
+123. Barbero G., Evangelista L. R., Merletti R. Half-cell and noise voltages at a metal-electrode and dilute solution interface, Journ. Statistical Mechanics:Theory and Experiment, 2022; doi.org/10.1088/1742-5468/ac827e
+124. Campanini, I., Merlo, A., Disselhorst-Klug, C., Mesin, L., Muceli, S., Merletti, R., Fundamental Concepts of Bipolar and High-Density Surface EMG Understanding and Teaching for Clinical, Occupational, and Sport Applications: Origin, Detection, and Main Errors. Sensors 2022, 22, 4150. https://doi.org/10.3390/s22114150
+125. Merletti R. ,Temporiti F., Gatti R.,  Gupta S., Sandrini G.,  Serrao M. Translation of surface electromyography (sEMG) to clinical and motor rehabilitation applications: the need for new clinical figures.   Translational Neuroscience,  2023, https://doi.org/10.1515/tnsci-2022-0279  in press.
+126. Clancy E., Morin E., Hajian G., Merletti R., Tutorial. Surface electromyogram (sEMG) amplitude estimation: Best practices. Submitted.
