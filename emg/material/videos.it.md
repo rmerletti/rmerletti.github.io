@@ -37,3 +37,4 @@ Alcuni filmati mostrano  la distribuzione  istantanea di tensione (rilevata a 20
 23. [Suoni preregistrati e controllati dalla attivita’ muscolare.](/it/emg/material/videos/f23/)
 24. [Riabilitazione Robotica](/it/emg/material/videos/f24/)
 25. [Muscolo gastrocnemio : segnale istantaneo. Stazione eretta. ](/it/emg/material/videos/f25/)
+26. [Simulazione su calcolatore della generazione, propagazione ed estinzione del potenziale d’azione monopolare di singola fibra. ](/it/emg/material/videos/f26/)

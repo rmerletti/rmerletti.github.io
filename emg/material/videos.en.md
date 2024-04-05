@@ -37,3 +37,4 @@ Some movies show the instantaneous distribution of electric voltage (detected at
 23. [Pre-recorded sounds controlled by muscle activity](/en/emg/material/videos/f23/)
 24. [Rehabilitation Robotics Demo](/en/emg/material/videos/f24/)
 25. [Gastrocnemius muscle during quiet standing ](/en/emg/material/videos/f25/)
+26. [Computer simulation of the generation, propagation and extinction of a single fiber monopolar action potential ](/en/emg/material/videos/f26/)
