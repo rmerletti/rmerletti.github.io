@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Applicazioni"
+title: "Formazione e Applicazioni"
 permalink: /it/emg/applications
 lang: it
 ref: applications
@@ -53,13 +53,13 @@ ref: applications
                 Translation of surface electromyography to clinical and motor rehabilitation applications: The  need for new clinical figures. Translational Neuroscience, 2023;14(1): 20220279. <a href="https://doi.org/10.1515/tnsci-2022-0279">Open access</a>.<br/><br/>
                 
                 Campanini, I., Merlo, A., Disselhorst-Klug, C., Mesin, L., Muceli, S., Merletti, R. <br/>Fundamental concepts of bipolar and high-density surface EMG understanding and teaching for clinical, occupational and sport applications: origin, detection, and main errors. 
-                Sensors (Basel) 2022;22(11):4150. doi: 10.3390/s22114150. Open access.<br/><br/>
+                Sensors (Basel) 2022;22(11):4150. doi: 10.3390/s22114150. <a href="https://doi.org/10.3390/s22114150">Open access</a>.<br/><br/>
                 
                 Scano, A., Guanziroli, E., Brambilla, C., Amendola, C., Pirovano, I., Gasperini, G., Molteni, F., Spinelli, L., Molinari Tosatti, L., Rizzo, G., et al. <br/>A Narrative Review on Multi-Domain Instrumental Approaches to Evaluate Neuromotor Function in Rehabilitation. 
-                Healthcare, 2023; 11, 2282. doi: 10.3390/healthcare11162282. Open access.<br/><br/>
+                Healthcare, 2023; 11, 2282. doi: 10.3390/healthcare11162282. <a href="https://doi.org/10.3390/healthcare11162282">Open access</a>.<br/><br/>
                 
                 Fontiers Editorial  Project and Open e-book :<br/> 
-                Surface Electromyography: Barriers Limiting Widespread use of sEMG in Clinical Assessment and Neurorehabilitation <a href="https://www.frontiersin.org/research-topics/11157/">  Open access</a>. <br/><br/>
+                Surface Electromyography: Barriers Limiting Widespread use of sEMG in Clinical Assessment and Neurorehabilitation <a href="https://www.frontiersin.org/research-topics/11157/">Open access</a>. <br/><br/>
                 
                 Fontiers Editorial  Project and Open e-book :<br/> 
                 Electromyography (EMG) Techniques for the Assessment and Rehabilitation of Motor Impairment Following Stroke.  <a href="https://www.frontiersin.org/research-topics/5033/"> 
