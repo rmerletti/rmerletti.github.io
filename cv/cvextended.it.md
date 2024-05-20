@@ -54,6 +54,9 @@ ref: cvextended
 
 <table class="table table-condensed">
     <tr>
+        <td class="col-md-2">2015 - presente</td><td>Preparazione di materiale didattico in rete. www.robertomerletti.it</td>
+    </tr>
+    <tr>
         <td class="col-md-2">1997 - 2015</td><td>Direttore del Laboratorio di Ingegneria del Sistema Neuromuscolare, Politecnico di Torino. Didattica di Dottorato</td>
     </tr>
     <tr>
@@ -151,9 +154,9 @@ ref: cvextended
 
 Membro dell’Editorial  Board,  Journal of Electromyography and Kinesiology.
 
-Membro dell’Editorial Board, Physiological Measurement
+Ex membro dell’Editorial Board, Physiological Measurement
 
-Membro dell’Editorial Board, Biomedical signal processing and control
+Ex membro dell’Editorial Board, Biomedical signal processing and control
 
 Ex membro dell’Editorial Board,  IEEE Transactions on Biomedical Engineering.
 
@@ -188,7 +191,7 @@ Membro della Accademia Slovena delle Scienze e delle Arti (SASA)
   <tr><td>Libri di testo nazionali</td>                     <td>3</td></tr>
   <tr><td>Capitoli di libri internazionali</td>             <td>5</td></tr>
   <tr><td>Capitoli e contributi a libri nazionali</td>      <td>7</td></tr>
-  <tr><td>Pubblicazioni su riviste internazionali</td>      <td>&gt;180</td></tr>
+  <tr><td>Pubblicazioni su riviste internazionali</td>      <td>200</td></tr>
   <tr><td>Pubblicazioni su riviste nazionali</td>           <td>30</td></tr>
   <tr><td>Pubblicazioni in atti di convegni internazionali</td><td>&gt;150</td></tr>
   <tr><td>Pubblicazioni in atti di convegni nazionali</td>  <td>20</td></tr>
@@ -220,7 +223,7 @@ Methodological issues and clinical applications.
 6. Merletti R., Medicina del lavoro: valutazioni tramite EMG di superficie. In “Bioingegneria della postura e del movimento” Cappello A., Cappozzo A., di Prampero P.E. (Eds.), Patron Editore (Pub.), pp. 495-510, 2003
 7. Merletti R., Marchetti M., Contardo V., Veronica M., Applicazioni dell'EMG di superficie in riabilitazione sportiva, cap. 4.7 del testo "La Spalla e lo Sport", Masson, 
 8. Merletti R., Parker P.A. (edts.), Electromyography: Physiology, engineering and non invasive applications, IEEE Press / J Wiley, USA, 2004
-9. Rainoldi A., Minetto M., **Merletti R.** (edtrs),  Biomedical Engineering in exercise and sports
+9. Rainoldi A., Minetto M., Merletti R. (edtrs),  Biomedical Engineering in exercise and sports
     Edizioni Minerva Medica, Torino 2006, Italy
 10. Barbero R., Rainoldi A, Merletti R. Atlas of muscle innervation zones: understanding surface EMG and its applications, Springer, Italy 2012
 11. Merletti R, Farina D. (edts) Surface Electromyography: physiology, engineering and applications,  IEEE Press / J Wiley, USA, 2016 
