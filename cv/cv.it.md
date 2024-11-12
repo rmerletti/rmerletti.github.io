@@ -278,5 +278,6 @@ doi.org/10.1088/1742-5468/ac827e
 36.	 Clancy E., Morin E., Hajian G., Merletti R., Tutorial. Surface electromyogram (sEMG) amplitude estimation: Best practices. J. Electromyogr Kinesiol., 2023;72:102807. 
 doi: 10.1016/j.jelekin.2023.102807.
 37.	Merletti R., Metrology in sEMG and movement analysis: the need for training new figures in clinical rehabilitation. Front. Rehabil. Sci. 2024, 5:1353374. doi: 10.3389/fresc.2024.1353374
-38.	Khorrami Chokami A., Merletti R., Right-Left sEMG Burst Synchronization of the Lumbar Erector Spinae Muscles of Seated Violin Players.
-39.	Muceli S., Merletti R., Tutorial. Frequency analysis of the surface EMG signal: Best practices.
+38.  Khorrami Chokami A., Merletti R., Right-Left sEMG Burst Synchronization of the  Lumbar Erector Spinae Muscles of Seated Violin Players. Sci. Rep. 2024;14(1):22992. doi: 10.1038/s41598-024-69531-z. 
+39. Muceli S., Merletti R., Tutorial. Frequency analysis of the surface EMG signal: Best practices.  J. Electromyogr Kinesiol. 2024. In press. 
+40. Farina D., Merletti R., Enoka R., The extraction of neural strategies from the surface EMG: 2004-2024. J. of Appl. Physiol. In Press.
