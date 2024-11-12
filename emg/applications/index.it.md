@@ -14,9 +14,9 @@ ref: applications
           <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 rm-tab-menu">
             <div class="list-group">
               <a href="#" class="list-group-item active">Applicazioni generali</a>
+              <a href="#" class="list-group-item">Formazione</a>
               <a href="#" class="list-group-item">Neurofisiologia e Scienze Motorie</a>
               <a href="#" class="list-group-item">Ingegneria della riabilitazione</a>
-              <a href="#" class="list-group-item">Formazione</a>
               <!--
               <a href="#" class="list-group-item">Invecchiamento sano e attivo</a>
               -->

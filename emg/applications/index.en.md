@@ -14,12 +14,12 @@ ref: applications
           <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 rm-tab-menu">
             <div class="list-group">
               <a href="#" class="list-group-item active">General applications</a>
+              <a href="#" class="list-group-item">Education</a>
               <a href="#" class="list-group-item">Neurophysiology and Movement Sciences</a>
               <a href="#" class="list-group-item">Rehabilitation Engineering</a>
               <!--
               <a href="#" class="list-group-item">Healthy aging</a>
               -->
-              <a href="#" class="list-group-item">Education</a>
               <a href="#" class="list-group-item">Occupational and Performing Arts Medicine</a>
               <a href="#" class="list-group-item">Sport Medicine</a>
               <a href="#" class="list-group-item">Obstetrics and prevention of child-delivery lesions</a>
