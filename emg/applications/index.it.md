@@ -33,22 +33,16 @@ ref: applications
           <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 rm-tab">
               <div class="rm-tab-content active">
                 <h2>Applicazioni generali</h2>
-                Vedere il materiale divulgativo illustrato nell'Articolo "<a href="/assets/pdfs/space_sport_ergonomics_sphincters.pdf">Space, sport, ergonomics and sphincters</a>" pubblicato dalla rivista europea "Science, Technology and Innovation Projects" (2008) and in "<a href="/it/emg/what/semg">Che cos'è il sEMG?</a>" in questo sito.
+                Vedere il materiale divulgativo illustrato nell'Articolo "<a href="/assets/pdfs/space_sport_ergonomics_sphincters.pdf">Space, sport, ergonomics and sphincters</a>" pubblicato dalla rivista europea "Science, Technology and Innovation Projects" (2008) and in "<a href="/it/emg/what/semg">Che cos'è il sEMG?</a>" in questo sito.<br/><br/>
+                Vedere "Resources" all'interno di <a href="https://www.isek.org">www.isek.org</a> per tutorial e documenti di consenso (progetto CEDE).<br/>
+                Vedere <a href="https://isek.org/isek-jek-tutorials/">https://isek.org/isek-jek-tutorials/</a> e <a href="https://isek.org/cede-project/">https://isek.org/cede-project/</a>
+                Vedere i progetti europei <a href="https://www.semiam.org/">www.semiam.org</a> nel campo del sEMG (un po' obsoleto) e TEACH nel campo della Biomeccanica: <a href="https://teach.ibv.org/">https://teach.ibv.org</a> Vedere la voce "Education" in questa pagina.<br/><br/>
+
+                Le applicazioni e i materiali didattici elencati in questa pagina non sono esaustivi. Esiste altro materiale in altri campi e da altre fonti accademiche. Ad esempio, cercare su Pubmed(<a href="https://pubmed.ncbi.nlm.nih.gov/">https://pubmed.ncbi.nlm.nih.gov/</a>) : (sEMG OR HDsEMG OR “surface EMG” OR “surface electromyography”) AND “clinical applications”.
               </div>
-              <div class="rm-tab-content">
-                <h2>Neurofisiologia e Scienze Motorie</h2>
-                Studi sul sistema neuromuscolare e sul sistema di controllo motorio.<br/>
-                <a href="{{ site.baseurl }}/it/emg/applications/neurophysiology">Continua</a>
-              </div>
-              <div class="rm-tab-content">
-                <h2>Ingegneria della riabilitazione</h2>
-                Tecniche, strumenti e modelli. Monitoraggio e valutazioni di efficacia di farmaci e trattamenti.<br/>
-                <a href="{{ site.baseurl }}/it/emg/applications/rehabilitation">Continua</a>
-              </div>
-              
               <div class="rm-tab-content">
                 <h2>Formazione</h2>
-                Materiale ad accesso libero per la formazione nel campo della fisioterapia:<br/><br/>
+                Materiale ad accesso libero nel campo dell'insegnamento del sEMG nella scienza del movimento e nell'educazione fisioterapica:<br/><br/>
                 Merletti R, Temporiti F, Gatti R, Gupta S, Sandrini G, Serrao M. <br/>
                 Translation of surface electromyography to clinical and motor rehabilitation applications: The  need for new clinical figures. Translational Neuroscience, 2023;14(1): 20220279. <a href="https://doi.org/10.1515/tnsci-2022-0279">Open access</a>.<br/><br/>
                 
@@ -69,11 +63,23 @@ ref: applications
                 
                 Frontiers Editorial Project: <br/>
                 Surface EMG and other measurement techniques in rehabilitation research and practice: are new educational programs needed? 
-                <a href="https://www.frontiersin.org/research-topics/61597/">Open access</a>. Call for papers is open.
+                <a href="https://www.frontiersin.org/research-topics/61597/">Open access</a>.
                 <br/><br/>
                 See "Resources" in www.isek.org  for Tutorials and Consensus Papers (CEDE project).
                 
               </div> 
+              <div class="rm-tab-content">
+                <h2>Neurofisiologia e Scienze Motorie</h2>
+                Studi sul sistema neuromuscolare e sul sistema di controllo motorio.<br/>
+                <a href="{{ site.baseurl }}/it/emg/applications/neurophysiology">Continua</a>
+              </div>
+              <div class="rm-tab-content">
+                <h2>Ingegneria della riabilitazione</h2>
+                Tecniche, strumenti e modelli. Monitoraggio e valutazioni di efficacia di farmaci e trattamenti.<br/>
+                <a href="{{ site.baseurl }}/it/emg/applications/rehabilitation">Continua</a>
+              </div>
+              
+              
               <!--
               <div class="rm-tab-content">
                 <h2>Invecchiamento sano e attivo</h2>
