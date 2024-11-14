@@ -33,21 +33,21 @@ ref: applications
           <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 rm-tab">
               <div class="rm-tab-content active">
                 <h2>General applications</h2>
-                See the dissemination tutorials "<a href="/assets/pdfs/space_sport_ergonomics_sphincters.pdf">Space, sport, ergonomics and sphincters</a>" published by the EU magazine "Science, Technology and Innovation Projects" and "<a href="/en/emg/what/semg">What is sEMG?</a>" on this website.
-              </div>
-              <div class="rm-tab-content">
-                <h2>Neurophysiology and Movement Sciences</h2>
-                Investigations of the neuromuscular and motor control systems<br/>
-                <a href="{{ site.baseurl }}/en/emg/applications/neurophysiology">Read more</a>
-              </div>
-              <div class="rm-tab-content">
-                <h2>Rehabilitation Engineering</h2>
-                Techniques, instrumentation, models. Assessment of effectiveness of treatments.<br/>
-                <a href="{{ site.baseurl }}/en/emg/applications/rehabilitation">Read more</a>
+                See the dissemination tutorials "<a href="/assets/pdfs/space_sport_ergonomics_sphincters.pdf">Space, sport, ergonomics and sphincters</a>" published by the EU magazine "Science, Technology and Innovation Projects" and "<a href="/en/emg/what/semg">What is sEMG?</a>" on this website.<br/><br/>
+                See "Resources" in <a href="https://www.isek.org">www.isek.org</a> for Tutorials and Consensus Papers (CEDE project)<br/>
+                See <a href="https://isek.org/isek-jek-tutorials/">https://isek.org/isek-jek-tutorials/</a>  and  <a href="https://isek.org/cede-project/">https://isek.org/cede-project/</a><br/>
+                See the European Projects www.semiam.org in the field of sEMG (somewhat obsolete)
+                and TEACH in the field of Biomechanics:  <a href="https://teach.ibv.org">https://teach.ibv.org</a> <br/>
+                See the item "Education" in this page.<br/><br/>
+                
+                The applications and the educational materials listed in this page are not exhaustive.
+                More material exist in other fields and from other academic sources. 
+                For example, search Pubmed  (<a href="https://pubmed.ncbi.nlm.nih.gov/">https://pubmed.ncbi.nlm.nih.gov/</a> ) for :
+                (sEMG OR HDsEMG OR "surface EMG" OR "surface electromyography") AND "clinical applications"
               </div>
               <div class="rm-tab-content">
                 <h2>Education</h2>
-                Open access material in the field of physiotherapy education:<br/><br/>
+                Open access material in the fields of sEMG teaching in movement science and physiotherapy education:<br/><br/>
                 
                 Merletti R, Temporiti F, Gatti R, Gupta S, Sandrini G, Serrao M. <br/>
                 Translation of surface electromyography to clinical and motor rehabilitation applications: The  need for new clinical figures. Translational Neuroscience, 2023;14(1): 20220279. <a href="https://doi.org/10.1515/tnsci-2022-0279">Open access</a>.<br/><br/>
@@ -69,10 +69,20 @@ ref: applications
                 
                 Frontiers Editorial Project: <br/>
                 Surface EMG and other measurement techniques in rehabilitation research and practice: are new educational programs needed? 
-                <a href="https://www.frontiersin.org/research-topics/61597/">Open access</a>. Call for papers is open.
+                <a href="https://www.frontiersin.org/research-topics/61597/">Open access</a>. 
                 <br/><br/>
                 See "Resources" in www.isek.org  for Tutorials and Consensus Papers (CEDE project).
                 
+              </div>
+              <div class="rm-tab-content">
+                <h2>Neurophysiology and Movement Sciences</h2>
+                Investigations of the neuromuscular and motor control systems<br/>
+                <a href="{{ site.baseurl }}/en/emg/applications/neurophysiology">Read more</a>
+              </div>
+              <div class="rm-tab-content">
+                <h2>Rehabilitation Engineering</h2>
+                Techniques, instrumentation, models. Assessment of effectiveness of treatments.<br/>
+                <a href="{{ site.baseurl }}/en/emg/applications/rehabilitation">Read more</a>
               </div>
               <!--
               <div class="rm-tab-content">
