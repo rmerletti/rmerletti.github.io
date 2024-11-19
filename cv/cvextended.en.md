@@ -331,5 +331,5 @@ doi: 10.1016/j.jelekin.2023.102807.
 117.	Merletti R., Metrology in sEMG and movement analysis: the need for training new figures in clinical rehabilitation. Front. Rehabil. Sci. 2024, 5:1353374. doi: 10.3389/fresc.2024.1353374
 118.  Khorrami Chokami A., Merletti R., Right-Left sEMG Burst Synchronization of the  Lumbar Erector Spinae Muscles of Seated Violin Players. Sci. Rep. 2024;14(1):22992. doi: 10.1038/s41598-024-69531-z. 
 119. Muceli S., Merletti R., Tutorial. Frequency analysis of the surface EMG signal: Best practices.  J. Electromyogr Kinesiol. 2024. In press. 
-120. Farina D., Merletti R., Enoka R., The extraction of neural strategies from the surface EMG: 2004-2024. J. of Appl. Physiol. In Press.
+120. Farina D., Merletti R., Enoka R., The extraction of neural strategies from the surface EMG: 2024. J. of Appl. Physiol. In Press.
 
