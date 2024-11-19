@@ -98,3 +98,4 @@ This page contains links to web sites of Data Basis, Institutions, Research Cent
 - [Teleemg](https://www.teleemg.com)
 - [Thought Technology](https://www.thoughttechnology.com)
 - [Tmsi](https://www.tmsi.com)
+- [Plux](https://www.pluxbiosignals.com)
