@@ -307,6 +307,10 @@ J. Electromyogr. Kinesiol., 2023; 68:102726. doi:10.1016/j.jelekin.2022.102726.
         doi: 10.1016/j.jelekin.2023.102807.
 198.	Merletti R., Metrology in sEMG and movement analysis: the need for training new figures in clinical rehabilitation. Front. Rehabil. Sci. 2024, 5:1353374. doi: 10.3389/fresc.2024.1353374
 199.  Khorrami Chokami A., Merletti R., Right-Left sEMG Burst Synchronization of the Lumbar Erector Spinae Muscles of Seated Violin Players. Sci. Rep. 2024;14(1):22992. doi: 10.1038/s41598-024-69531-z. 
-200. Muceli S., Merletti R., Tutorial. Frequency analysis of the surface EMG signal: Best practices.  J. Electromyogr Kinesiol. 2024. In press. 
-201. Farina D., Merletti R., Enoka R., The extraction of neural strategies from the surface EMG: 2024. J. of Appl. Physiol. In Press.
+201. Muceli S, Merletti R, Tutorial. Frequency analysis of the surface EMG signal: Best practices. J Electromyogr Kinesiol 2024; 102937. doi: 10.1016/j.jelekin.2024.102937
+202. Farina D, Merletti R, Enoka R, The extraction of neural strategies from the surface EMG: 2004-2024. 2025;138(1):121-135. doi: 10.1152/japplphysiol.00453.2024.
+203. Tramontano M, Li S, Merletti R, Editorial: Surface EMG and other measurement techniques in rehabilitation research and practice: are new educational programs needed? Front. Rehabil. Sciences. 2025;6:1565879. doi: 10.3389/fresc.2025.1565879
+204. Del Vecchio A, Hug F, Merletti R, Farina D, JEK-ISEK tutorials on electromyography and kinesiology: A summary and a call for the next series of tutorials. J Electromyogr  Kinesiol. 2025 Jan 23:81:102986. doi: 10.1016/j.jelekin.2025.102986
+
+
 
